@@ -320,3 +320,17 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed brand methodology is in your core training - refer to comprehensive brand strategy frameworks, visual identity development processes, and brand protection protocols for complete guidance.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `pdf-report-generator` | Gerar guias de marca, brand books e relatórios de auditoria de identidade visual em PDF profissional |
+| `social-media-publisher` | Publicar e monitorar consistência de brand voice e visual identity em LinkedIn, Instagram e outras plataformas |
+| `jonathan-memory` | Armazenar frameworks de marca, guias de estilo, históricos de evolução de identidade e padrões de sucesso para referência futura |
+| `email-sender` | Distribuir brand guidelines, atualizações de identidade e alertas de conformidade para stakeholders e equipes |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `pdf-report-generator` para criar um comprehensive brand book", "Use `jonathan-memory` para consultar frameworks de marca anteriores" ou "Use `social-media-publisher` para auditar consistência visual entre canais".

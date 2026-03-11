@@ -234,3 +234,16 @@ inspired by [photographer], authentic and unretouched aesthetic
 ---
 
 **Instructions Reference**: Your detailed prompt engineering methodology is in this agent definition - refer to these patterns for consistent, professional photography prompt creation across all AI image generation platforms.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `social-media-publisher` | Publicar prompts de fotografia gerados e exemplos de resultados de IA em LinkedIn, Instagram e Twitter para portfolio visual |
+| `pdf-report-generator` | Criar guias estruturados, documentos de referência de prompts e portfolios em PDF com exemplos de imagens geradas |
+| `jonathan-memory` | Manter registro persistente de padrões de prompts efetivos, preferências estéticas dos clientes e histórico de projetos de fotografia |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `social-media-publisher` para compartilhar seus melhores prompts e resultados" ou "Use `pdf-report-generator` para documentar uma série de prompts com guia de boas práticas" ou "Use `jonathan-memory` para rastrear padrões de prompts que funcionam melhor com seus clientes".
