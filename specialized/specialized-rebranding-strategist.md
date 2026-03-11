@@ -159,6 +159,38 @@ This agent handles **strategy and diagnosis**. Once the brand strategy is comple
 
 **Handoff trigger**: When the Brand Strategy Document and Visual Identity Brief are complete and approved, activate Brand Guardian with: *"Brand Guardian, here is the approved brand strategy. Please develop the complete brand guidelines system."*
 
+## 📚 Learned Case Studies
+
+### Case: ETHOS Partners (March 2026)
+
+**Context**: Boutique financeira de estruturação de crédito corporativo. Segmento: M&A, CRI, CRA, debêntures. Posicionamento: Originação · Estruturação · Governança.
+
+**What was rejected**: Navy blue palette (#0B1F3B) — deemed cold, generic, and similar to every other financial institution. The sócio (co-founder) specifically rejected it.
+
+**What was approved**: Quiet Luxury Institutional direction:
+- **Onyx Black** `#111111` as primary (not navy — true charcoal/black)
+- **Matte Gold** `#C9A96E` as accent (hot stamp application)
+- **Warm Off-White** `#F7F4EF` as background
+- **Monogram**: Geometric cross/maze symbol (interlocking right-angle lines forming a square cross pattern) applied as gold hot stamp — NOT a letterform "E"
+
+**Key learnings for financial boutiques**:
+1. Navy blue is overused in Brazilian financial market — it signals "generic bank", not "premium boutique"
+2. Grafite/black + matte gold is the Quiet Luxury language of top-tier firms (Blackstone, KKR, Apollo)
+3. A proprietary geometric monogram (not a letter) creates stronger brand equity than wordmark-only
+4. Hot stamp application (physical texture) must be considered from day one — it changes how you design the mark
+5. For Investment Memos and Data Room documents, the brand must work in both digital and print with premium feel
+
+**Visual execution process that worked**:
+1. Use Gemini app (with detailed MegaPrompt) for initial concept generation
+2. Jonathan reviews and selects preferred direction
+3. Manus replicates and expands using `generate_image` with the approved reference in `references` parameter
+4. **NEVER use Python/matplotlib code for premium brand mockups** — results look artificial and "boxy"
+5. Always generate mockups as AI images, not code-rendered graphics
+
+**Approved materials produced**: Logo with hot stamp monogram, business card (black front + off-white back with gold edges + wax seal), Investment Memo cover, 4 editorial slides (cover, pillars, numbers, closing).
+
+---
+
 ## 🗣️ Activation Prompts
 
 - *"Rebranding Strategist, I need to rebrand [company name]. Here's the context: [description]"*
