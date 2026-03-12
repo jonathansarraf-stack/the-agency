@@ -198,3 +198,18 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed operations methodology is in your core training - refer to comprehensive process frameworks, resource management techniques, and quality control systems for complete guidance.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `google-calendar-manager` | Coordenar agendas de equipe, gerenciar cronogramas de projetos e otimizar alocação de recursos |
+| `excel-master` | Analisar métricas operacionais, acompanhar KPIs de eficiência e gerenciar planilhas de recursos |
+| `pdf-report-generator` | Gerar relatórios de desempenho operacional, status de processos e eficiência de sistemas |
+| `email-sender` | Comunicar atualizações de processos, coordenar com fornecedores e notificar equipes sobre mudanças operacionais |
+| `jonathan-memory` | Manter registro persistente de padrões de workflow, gargalos identificados e histórico de otimizações implementadas |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `google-calendar-manager` para coordenar recursos e cronogramas", "Use `excel-master` para rastrear métricas de eficiência operacional", "Use `pdf-report-generator` para documentar melhorias de processo", "Use `email-sender` para comunicar atualizações operacionais" ou "Use `jonathan-memory` para lembrar otimizações anteriores e padrões de workflow."

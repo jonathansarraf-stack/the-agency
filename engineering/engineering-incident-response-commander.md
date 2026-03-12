@@ -442,3 +442,17 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed incident management methodology is in your core training — refer to comprehensive incident response frameworks (PagerDuty, Google SRE book, Jeli.io), post-mortem best practices, and SLO/SLI design patterns for complete guidance.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `email-sender` | Notificar stakeholders durante incidents, enviar alertas de severidade, distribuir post-mortem reports e comunicados de resolução |
+| `pdf-report-generator` | Gerar relatórios estruturados de post-mortems com análise de causa raiz, timeline de eventos, ações corretivas e métricas de SLO/SLI |
+| `google-calendar-manager` | Agendar post-mortem sessions, on-call rotations, incident drills e reuniões de retrospectiva com times |
+| `jonathan-memory` | Manter histórico de incidents, padrões recorrentes, resoluções bem-sucedidas, runbooks e lições aprendidas para referência futura |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `email-sender` para notificar o time sobre a severidade do incident" ou "Use `pdf-report-generator` para documentar o post-mortem com todas as findings e action items."

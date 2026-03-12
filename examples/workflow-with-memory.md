@@ -236,3 +236,18 @@ The Backend Architect can see exactly what the Reality Checker flagged, recall i
 - You don't need to modify every agent at once. Start by adding Memory Integration to the agents you use most and expand from there.
 - The memory instructions are prompts, not code. The LLM interprets them and calls the MCP tools as needed. You can adjust the wording to match your style.
 - Any MCP-compatible memory server that supports `remember`, `recall`, `rollback`, and `search` tools will work with this workflow.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `jonathan-memory` | Armazenar e recuperar contexto persistente entre agentes (sprint plans, research briefs, arquiteturas) sem necessidade de copy-paste manual |
+| `skill-advisor` | Recomendar skills específicas para cada agente da equipe (Sprint Prioritizer, UX Researcher, Backend Architect, Frontend Developer) conforme o projeto evolui |
+| `agent-creator` | Instanciar novos agentes ou customizar os existentes conforme a equipe de projeto se expande ou muda de escopo |
+| `pdf-report-generator` | Gerar relatórios consolidados do workflow (sprints, pesquisa UX, design de API) em PDF para documentação e handoff entre fases |
+| `google-calendar-manager` | Sincronizar sprints semanais e milestones do projeto com o calendário, mantendo a equipe alinhada sobre prazos |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `jonathan-memory` para recuperar o contexto do projeto RetroBoard antes de ativar o próximo agente" ou "Use `google-calendar-manager` para registrar as datas de cada sprint na equipe".

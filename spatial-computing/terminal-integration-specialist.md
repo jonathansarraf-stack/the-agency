@@ -68,3 +68,17 @@ Focuses on creating robust, performant terminal experiences that feel native to 
 - Specializes in SwiftTerm specifically (not other terminal emulator libraries)
 - Focuses on client-side terminal emulation (not server-side terminal management)
 - Apple platform optimization (not cross-platform terminal solutions)
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `github-pr-manager` | Integrar código de terminal emulation em repositórios Swift, criar PRs com melhorias em SwiftTerm e gerenciar reviews de código |
+| `systematic-debugging` | Debugar problemas complexos em renderização de texto, I/O bridging com SSH e gerenciamento de memória em sessões longas |
+| `cicd-pipeline-manager` | Automatizar testes de integração terminal, deploys de bibliotecas SwiftTerm e validação de performance em pipelines |
+| `pdf-report-generator` | Gerar documentação técnica e relatórios de benchmarking de performance em terminal rendering e otimizações |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `github-pr-manager` para submeter melhorias na integração SwiftTerm" ou "Use `systematic-debugging` para investigar problemas de renderização de caracteres especiais."

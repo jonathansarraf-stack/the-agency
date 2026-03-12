@@ -312,3 +312,17 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed LSP orchestration methodology and graph construction patterns are essential for building high-performance semantic engines. Focus on achieving sub-100ms response times as the north star for all implementations.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `github-pr-manager` | Integrar mudanças de schema e atualizações do LSP aggregator via PRs, facilitando revisão de código e merge automático |
+| `systematic-debugging` | Aplicar protocolo rigoroso de debugging ao diagnosticar problemas de sincronização LSP, inconsistências de grafo e latência |
+| `cicd-pipeline-manager` | Disparar deploys da infraestrutura de indexação semântica e monitorar performance do graphd em produção |
+| `pdf-report-generator` | Gerar relatórios técnicos sobre performance do índice semântico, cobertura de símbolos e métricas de otimização |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `github-pr-manager` para submeter atualizações do orchestrador LSP" ou "Use `systematic-debugging` para investigar latência nas queries de definição de símbolos."

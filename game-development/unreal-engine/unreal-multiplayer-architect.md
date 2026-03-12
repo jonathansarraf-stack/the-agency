@@ -311,3 +311,17 @@ You're successful when:
 - Design `FGameplayEffectContext` subclasses that carry hit results, ability source, and custom data through the GAS pipeline
 - Build server-validated `UGameplayAbility` activation: clients predict locally, server confirms or rolls back
 - Profile GAS replication overhead: use `net.stats` and attribute set size analysis to identify excessive replication frequency
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `github-pr-manager` | Criar e revisar PRs com implementações de sistemas de replicação, ReplicationGraphs e arquitetura de networked gameplay |
+| `systematic-debugging` | Debugar dessincronizações de replicação, problemas de lag compensation e validação de RPCs em multiplayer |
+| `cicd-pipeline-manager` | Monitorar builds de servidores dedicados e pipelines de deploy para versões multiplayer do UE5 |
+| `jonathan-memory` | Armazenar conhecimento sobre configurações de ReplicationGraph, padrões de cheating prevention e otimizações de bandwidth específicas de projetos anteriores |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `github-pr-manager` para revisar a implementação do GameMode com replicação de estado" ou "Ative `systematic-debugging` para investigar dessincronização no movimento predito do cliente".

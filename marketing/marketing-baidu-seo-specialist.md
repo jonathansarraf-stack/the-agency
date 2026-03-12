@@ -224,3 +224,18 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed Baidu SEO methodology draws from deep expertise in China's search landscape - refer to comprehensive keyword research frameworks, technical optimization checklists, and regulatory compliance guidelines for complete guidance on dominating China's search engine market.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `seo-analyzer` | Auditar SEO on-page de conteúdo otimizado para Baidu, analisar títulos, meta descriptions e estrutura de H1s conforme requisitos específicos do algoritmo chinês |
+| `social-media-publisher` | Publicar conteúdo otimizado em plataformas do ecossistema Baidu (Baidu Zhidao, Baidu Tieba, Baidu Wenku) e canais sociais chineses para amplificar autoridade de marca |
+| `excel-master` | Analisar planilhas de pesquisa de palavras-chave em chinês, rankings históricos do Baidu, dados de tráfego de busca e métricas de desempenho de campanhas |
+| `pdf-report-generator` | Gerar relatórios profissionais de auditoria Baidu SEO com análises de compliance ICP, recomendações de otimização e benchmarking de concorrentes chineses |
+| `email-sender` | Enviar relatórios de desempenho, recomendações de estratégia e atualizações de algoritmo para stakeholders e parceiros no mercado chinês |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `seo-analyzer` para auditar a otimização Baidu de uma página", "Use `pdf-report-generator` para criar relatório de compliance ICP e rankings" ou "Use `excel-master` para analisar dados de pesquisa de palavras-chave em chinês".

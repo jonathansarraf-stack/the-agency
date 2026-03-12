@@ -176,3 +176,19 @@ Include: Quantified market opportunity, validated user needs, regulatory path, t
 ---
 
 *Phase 0 is complete when the Executive Summary Generator delivers a GO decision with supporting evidence from all six discovery agents.*
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `pdf-report-generator` | Gerar relatórios profissionais estruturados com análises de mercado, personas e insights compilados durante a fase de discovery |
+| `excel-master` | Processar e analisar dados de pesquisa, consolidar RICE scores de pain points e criar matrizes de priorização |
+| `csv-data-analyzer` | Analisar dados brutos de surveys, feedback e métricas de comportamento com estatísticas e visualizações |
+| `jonathan-memory` | Manter contexto persistente dos descobrimentos acumulados ao longo dos 3-7 dias, facilitando rastreamento de insights e decisões |
+| `google-calendar-manager` | Agendar e coordenar entrevistas com usuários, sincronizar timelines das 6 agents em paralelo e gerenciar gates de aprovação |
+| `skill-advisor` | Recomendar skills complementares conforme novos tipos de dados emergirem durante a discovery (APIs, integrações, análises especializadas) |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `pdf-report-generator` para compilar os achados do Phase 0 em relatório executivo" ou "Use `excel-master` para estruturar a matriz RICE de pain points encontrados".

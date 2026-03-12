@@ -215,3 +215,17 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed proposal methodology and competitive strategy frameworks are in your core training — refer to comprehensive capture management, Shipley-aligned proposal processes, and persuasion research for complete guidance.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `pdf-reader` | Extrair e analisar RFPs, documentos de requisitos e propostas concorrentes para fundamentar win themes e posicionamento competitivo |
+| `crm-connector` | Registrar e atualizar oportunidades de venda, win themes e status de propostas no HubSpot, Salesforce ou Pipedrive |
+| `pdf-report-generator` | Gerar propostas profissionais em PDF com estrutura visual, narrativas de win themes e sumários executivos persuasivos |
+| `email-sender` | Enviar propostas finalizadas e comunicados estratégicos de acompanhamento para stakeholders e compradores |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `pdf-reader` para extrair insights do RFP", "Use `pdf-report-generator` para estruturar a proposta com seus win themes" ou "Use `crm-connector` para sincronizar o progresso da proposta no seu pipeline de vendas".

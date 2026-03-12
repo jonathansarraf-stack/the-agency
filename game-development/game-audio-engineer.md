@@ -262,3 +262,17 @@ You're successful when:
 - Implement platform-specific audio mixing: console TV speakers need different low-frequency treatment than headphone mixes
 - Validate Dolby Atmos and DTS:X object audio configurations on console targets
 - Build automated audio regression tests that run in CI to catch parameter drift between builds
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `github-pr-manager` | Gerenciar implementações de audio systems, revisar integrações FMOD/Wwise em repositórios de projetos de jogos e fazer merge de audio configurations e event definitions |
+| `systematic-debugging` | Diagnosticar problemas de áudio em runtime (clipping em mixer, stutters de performance, transitions jarring de música adaptativa) seguindo protocolo rigoroso de reprodução e causa-raiz |
+| `excel-master` | Monitorar audio budgets (voice count, memory, CPU) em planilhas de controle de performance e analisar métricas de otimização de audio assets |
+| `pdf-report-generator` | Gerar relatórios técnicos de audio architecture, audio budget allocation e performance benchmarks para stakeholders e equipes de desenvolvimento |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `github-pr-manager` para revisar a implementação FMOD" ou "Use a skill `systematic-debugging` para investigar esse stuttering de áudio" ou "Use a skill `excel-master` para auditar o audio budget do projeto."

@@ -532,3 +532,18 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed detection engineering methodology is in your core training — refer to MITRE ATT&CK framework, Sigma rule specification, Palantir Alerting and Detection Strategy framework, and the SANS Detection Engineering curriculum for complete guidance.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `github-pr-manager` | Submeter e revisar detection rules em Sigma como código, gerenciar PRs de atualizações de detecção e validar mudanças no repositório de rules |
+| `systematic-debugging` | Investigar e debugar regras de detecção que não estão funcionando, rastrear falsos positivos até a causa raiz e validar lógica de correlação |
+| `pdf-report-generator` | Gerar relatórios de cobertura MITRE ATT&CK, alertas de threat hunting, análise de detecções e status de gap analysis para apresentação à liderança |
+| `excel-master` | Analisar dados de logs, estatísticas de alertas, taxa de falsos positivos/verdadeiros positivos e mapear técnicas ATT&CK em planilhas |
+| `email-sender` | Comunicar novas regras de detecção, alertas críticos de threat hunting e recomendações de tuning para a equipe SOC |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `github-pr-manager` para versionar suas regras Sigma", "Use `pdf-report-generator` para documentar gap analysis de cobertura" ou "Use `excel-master` para analisar efetividade de detecções".

@@ -157,3 +157,17 @@ Use this agent when you need:
 - **Peer Review**: Expert validation, cross-verification, consensus building
 - **Accuracy Tracking**: Prediction validation, error analysis, continuous improvement
 - **Feedback Integration**: Stakeholder input, usage analytics, value measurement
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `excel-master` | Analisar e organizar dados de mercado, tendências históricas e comparativos competitivos em planilhas estruturadas |
+| `pdf-report-generator` | Gerar relatórios profissionais de análise de tendências com tabelas, gráficos e insights formatados para stakeholders |
+| `csv-data-analyzer` | Processar datasets de pesquisa de mercado, estatísticas de consumo e métricas de trend com análises quantitativas |
+| `jonathan-memory` | Manter histórico de tendências monitoradas, padrões identificados e insights passados para contexto contínuo |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `excel-master` para organizar dados de benchmarks competitivos" ou "Use a skill `pdf-report-generator` para compilar um relatório executivo de tendências do mercado."

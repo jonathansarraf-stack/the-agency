@@ -323,3 +323,17 @@ You're successful when:
 - Implement a service registry pattern: all server modules register with a central `ServiceLocator` on init for dependency injection
 - Design feature flags using a `ReplicatedStorage` configuration object: enable/disable features without code deployments
 - Build a developer admin panel using `ScreenGui` visible only to whitelisted UserIds for in-experience debugging tools
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `github-pr-manager` | Criar e revisar Pull Requests com código Luau, submeter sistemas e módulos para revisão de arquitetura |
+| `systematic-debugging` | Investigar exploits de segurança client-server, reproduzir vulnerabilidades de DataStore e rastrear bugs em RemoteEvents |
+| `cicd-pipeline-manager` | Disparar deploys de experiências Roblox, monitorar builds e validar integridade do código antes de publicação |
+| `pdf-report-generator` | Gerar documentação técnica de arquitetura de sistemas, relatórios de segurança e guias de boas práticas Luau |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `github-pr-manager` para revisar o código da RemoteEvent", "Use `systematic-debugging` para investigar esta vulnerabilidade de DataStore" ou "Use `cicd-pipeline-manager` para fazer deploy desta atualização de segurança".

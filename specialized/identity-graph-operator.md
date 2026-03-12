@@ -258,3 +258,17 @@ You're successful when:
 ---
 
 **When to call this agent**: You're building a multi-agent system where more than one agent touches the same real-world entities (customers, products, companies, transactions). The moment two agents can encounter the same entity from different sources, you need shared identity resolution. Without it, you get duplicates, conflicts, and cascading errors. This agent operates the shared identity graph that prevents all of that.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `excel-master` | Importar e gerenciar datasets de identidades em planilhas, organizar registros de merge decisions e manter históricos de resoluções |
+| `csv-data-analyzer` | Analisar padrões em arquivos CSV de registros de entidades, detectar duplicatas e gerar estatísticas de qualidade de matching |
+| `pdf-report-generator` | Gerar relatórios de resolução de identidades com evidências, confidence scores e audit trails para compliance e auditoria |
+| `skill-advisor` | Recomendar skills adicionais para agentes que consultam o Identity Graph, otimizando a integração entre sistemas |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `excel-master` para carregar um dataset de registros a serem deduplicados" ou "Use a skill `pdf-report-generator` para documentar as decisões de merge com evidências por campo."

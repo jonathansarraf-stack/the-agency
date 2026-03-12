@@ -316,3 +316,18 @@ Output: Quarterly Strategic Review → Updated roadmap and priorities
 ---
 
 *Phase 6 has no end date. It runs as long as the product is in market, with continuous improvement cycles driving the product forward. The NEXUS pipeline can be re-activated (NEXUS-Sprint or NEXUS-Micro) for major new features or pivots.*
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `pdf-report-generator` | Gerar relatórios operacionais diários, semanais e mensais (Analytics Report, Feedback Summary, Growth Metrics Report) com tabelas e visualizações |
+| `excel-master` | Gerenciar dashboards de KPIs e métricas de desempenho em planilhas com múltiplas abas para cada cadência operacional |
+| `csv-data-analyzer` | Analisar dados de telemetria, performance e eventos do sistema para gerar insights e tendências |
+| `google-calendar-manager` | Orquestrar cadências operacionais contínuas, diárias, semanais, bi-semanais e mensais, sincronizando agentes e deliverables |
+| `email-sender` | Distribuir relatórios e alertas críticos (health status, weekly updates, experiment results) para stakeholders e equipes |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `pdf-report-generator` para compilar o Daily Metrics Snapshot" ou "Use `google-calendar-manager` para sincronizar as cadências operacionais com os agentes rodantes".

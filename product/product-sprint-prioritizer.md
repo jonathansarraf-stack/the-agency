@@ -152,3 +152,17 @@ Use this agent when you need:
 - **Skill Development**: Training plans and knowledge sharing initiatives
 - **Motivation Tracking**: Team satisfaction and engagement monitoring
 - **Knowledge Management**: Documentation and best practice sharing systems
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `excel-master` | Analisar dados de velocity histórico, capacity planning e criar matrizes RICE/MoSCoW com múltiplas abas para comparação de prioridades |
+| `pdf-report-generator` | Gerar relatórios profissionais de roadmap, planos de sprint e análises de priorização com tabelas e gráficos para stakeholders |
+| `google-calendar-manager` | Agendar sprints, milestones, refinement sessions e sincronizar marcos de entrega com o calendário da equipe |
+| `jonathan-memory` | Manter contexto histórico de velocidades passadas, preferências de stakeholders e padrões de priorização do time entre sessões |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `excel-master` para consolidar dados de prioritização em um arquivo estruturado" ou "Use `pdf-report-generator` para criar um relatório executivo do plano de sprint".

@@ -319,3 +319,17 @@ You're successful when:
 - Use `NetworkVariableDeltaCompression` for high-frequency numeric values (position deltas smaller than absolute positions)
 - Design a network object pooling system: NGO NetworkObjects are expensive to spawn/despawn — pool and reconfigure instead
 - Profile bandwidth per-client using NGO's built-in network statistics API and set per-NetworkObject update frequency budgets
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `github-pr-manager` | Gerenciar implementações de sistemas multiplayer, revisar código de Netcode e fazer merge de features de sincronização de estado |
+| `systematic-debugging` | Depurar problemas de dessincronia, race conditions em autoridade de servidor e comportamentos de lag compensation |
+| `cicd-pipeline-manager` | Automatizar testes de multiplayer, validar builds com diferentes latências e monitorar deploys de servidores de jogo |
+| `pdf-report-generator` | Documentar arquiteturas de multiplayer, gerar relatórios de performance de rede e anti-cheat audits |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `github-pr-manager` para revisar implementações de NetworkVariable" ou "Use `systematic-debugging` para investigar dessincronia em state synchronization".

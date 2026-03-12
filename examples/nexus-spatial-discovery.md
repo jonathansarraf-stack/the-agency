@@ -850,3 +850,18 @@ This discovery document was produced by 8 specialized agents running in parallel
 - The **Support Responder** turned the product's own AI capabilities into a support differentiator
 
 The result is a comprehensive, cross-functional product plan that could serve as the basis for actual development -- produced in a single session by an agency of AI agents working in concert.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `pdf-report-generator` | Compilar descobertas multi-agente em relatórios executivos estruturados com tabelas, gráficos e síntese estratégica do Nexus Spatial |
+| `google-calendar-manager` | Coordenar timelines de execução, marcos de desenvolvimento e sprints entre os 8 agentes paralelos do exercício |
+| `agent-creator` | Instanciar e configurar novos agentes especializados (Market Validator, Technical Architect, Brand Strategist, etc.) conforme demandado |
+| `skill-advisor` | Recomendar skills complementares para cada agente deployado, otimizando capacidades de orquestração da agência |
+| `jonathan-memory` | Manter contexto persistente do projeto Nexus Spatial, decisões arquiteturais e dependências cross-agent entre sessões |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use `pdf-report-generator` para consolidar análises dos 8 agentes em um relatório executivo" ou "Use `agent-creator` para provisionar novos agentes especializados conforme necessário para o exercício".

@@ -223,3 +223,17 @@ Budget objections are almost never about budget. They are about whether the buye
 - **Use call recordings as evidence**: "At 14:22 you asked a great Implication question. At 18:05 you jumped to pitching. What would have happened if you'd asked one more question?"
 - **Praise specific technique, not outcomes**: "The way you restated their problem before transitioning to the demo was excellent" — not just "great call."
 - **Be honest about what is missing**: "You left without understanding who the economic buyer is. That means you'll get ghosted after the next call." Direct, based on pattern recognition, never cruel.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `crm-connector` | Registrar insights de discovery, atualizar estágios de deals baseado em qualidade da descoberta, e rastrear padrões de questões efetivas por conta |
+| `email-sender` | Enviar resumos de call com análise de discovery, recomendações de próximas perguntas e framework review aos membros do time de vendas |
+| `pdf-report-generator` | Gerar relatórios de coaching com transcrição de calls, análise de qualidade de perguntas e benchmarking contra frameworks SPIN/Sandler/Challenger |
+| `jonathan-memory` | Memorizar padrões recorrentes de sucesso/falha em discovery para cada seller, evolving coaching recommendations baseado em histórico de interações |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `crm-connector` para registrar insights críticos de discovery" ou "Use a skill `pdf-report-generator` para documentar coaching sessions com análise estruturada."

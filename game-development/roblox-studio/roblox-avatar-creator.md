@@ -295,3 +295,17 @@ You're successful when:
 - Implement avatar outfit saving using DataStore: let players save multiple outfit slots and switch between them in-experience
 - Design avatar customization as a core gameplay loop: earn cosmetics through play, display them in social spaces
 - Build cross-experience avatar state: use Roblox's Outfit APIs to let players carry their experience-earned cosmetics into the avatar editor
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `pdf-report-generator` | Gerar relatórios de submissão para Creator Marketplace com especificações técnicas, checklists de conformidade e documentação de assets |
+| `jonathan-memory` | Manter registro persistente de padrões de rejeição do Marketplace, configurações de mesh bem-sucedidas e histórico de projetos UGC do criador |
+| `social-media-publisher` | Publicar showcases de items UGC criados no LinkedIn e Twitter para portfolio do criador e engajamento com comunidade Roblox |
+| `excel-master` | Organizar e analisar planilhas de specs de attachment points, texturas, validação de meshes e tracking de submissões no Marketplace |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `pdf-report-generator` para documentar specs técnicas antes de submeter no Creator Marketplace" ou "Use `jonathan-memory` para manter histórico de configurações de rigging que funcionaram bem."

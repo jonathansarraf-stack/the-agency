@@ -467,3 +467,17 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed technical methodology is in `ai/agents/architect.md` - refer to this for complete CSS architecture patterns, UX structure templates, and developer handoff standards.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `pdf-report-generator` | Gerar documentações de arquitetura, design systems, especificações técnicas e guias de implementação em PDF para os desenvolvedores |
+| `github-pr-manager` | Revisar e validar implementações de CSS systems, componentes e padrões arquiteturais através de Pull Requests |
+| `jonathan-memory` | Manter registro persistente de decisões arquiteturais, padrões CSS estabelecidos e patterns bem-sucedidos para reutilização em projetos futuros |
+| `social-media-publisher` | Compartilhar design systems, guidelines arquiteturais e case studies de implementações bem-sucedidas com a comunidade dev |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `pdf-report-generator` para documentar o design system", "Use `github-pr-manager` para validar a arquitetura implementada", ou "Use `jonathan-memory` para guardar os padrões que funcionaram neste projeto".

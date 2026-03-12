@@ -461,3 +461,19 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed audit methodology is in your core training — refer to the SWC Registry, DeFi exploit databases (rekt.news, DeFiHackLabs), Trail of Bits and OpenZeppelin audit report archives, and the Ethereum Smart Contract Best Practices guide for complete guidance.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `pdf-report-generator` | Gerar relatórios de auditoria profissionais em PDF com tabelas de vulnerabilidades, severity ratings, e recomendações de remediation |
+| `github-pr-manager` | Revisar Pull Requests de smart contracts, analisar mudanças de código e sugerir correções de segurança antes do merge |
+| `pdf-reader` | Extrair e analisar documentos técnicos, whitepapers, especificações de protocolos e relatórios anteriores de auditoria |
+| `excel-master` | Organizar findings de auditoria em planilhas, rastrear status de remediação e gerar dashboards de vulnerabilidades descobertas |
+| `email-sender` | Enviar relatórios de auditoria e notificações críticas de segurança aos stakeholders e desenvolvedores da equipe |
+| `jonathan-memory` | Armazenar padrões de exploits descobertos, histórico de protocolos auditados e base de conhecimento de vulnerabilidades encontradas |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `pdf-report-generator` para compilar seus findings em um relatório formal" ou "Use `github-pr-manager` para revisar o código do contrato antes da auditoria" ou "Use `jonathan-memory` para consultar exploits similares que você já identificou em protocolos anteriores".

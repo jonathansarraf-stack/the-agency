@@ -355,3 +355,17 @@ Use during incident response.
 | Moving between phases | Phase Gate Handoff (#5) |
 | End of sprint | Sprint Handoff (#6) |
 | System incident | Incident Handoff (#7) |
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `pdf-report-generator` | Gerar handoff documents em PDF profissionais com metadados, contexto e acceptance criteria formatados |
+| `excel-master` | Criar e manter planilhas de rastreamento de handoffs entre agentes, com status e histórico de transições |
+| `skill-advisor` | Recomendar skills específicas para agentes receptores baseado no tipo de handoff e deliverables |
+| `agent-creator` | Validar compatibilidade entre agentes sender/receiver e sugerir ajustes de configuração para handoffs complexos |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use `pdf-report-generator` para documentar handoffs em formato profissional" ou "Use `skill-advisor` para garantir que o agente receptor tem as skills necessárias para o deliverable."

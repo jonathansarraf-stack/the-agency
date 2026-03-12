@@ -192,3 +192,19 @@ Exec Summary Gen.   │ Terminal Integration│ Report Distribution
 `strategy/nexus-strategy.md` — The complete doctrine
 
 </div>
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `google-calendar-manager` | Criar e gerenciar timelines de fases do pipeline NEXUS, sincronizando milestones com equipes |
+| `pdf-report-generator` | Gerar relatórios de qualidade e evidências entre quality gates, documentando cada fase |
+| `excel-master` | Gerenciar planilhas de rastreamento de agentes, tarefas e status de execução do pipeline |
+| `skill-advisor` | Recomendar skills complementares para agentes conforme cada fase do NEXUS é ativada |
+| `agent-creator` | Configurar e instanciar novos agentes especializados quando novas fases são iniciadas |
+| `jonathan-memory` | Manter contexto persistente do projeto NEXUS, histórico de execução e preferências de orquestração |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `skill-advisor` para identificar quais agentes e skills ativar na próxima fase" ou "Use a skill `pdf-report-generator` para documentar evidências entre quality gates do NEXUS".

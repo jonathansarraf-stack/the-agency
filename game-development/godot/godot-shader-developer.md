@@ -264,3 +264,17 @@ You're successful when:
 - Implement a full screen-space ambient occlusion (SSAO) effect as a custom `CompositorEffect` using depth buffer sampling
 - Build a color grading system using a 3D LUT texture sampled in a post-process shader
 - Design performance-tiered post-process presets: Full (Forward+), Medium (Mobile, selective effects), Minimal (Compatibility)
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `github-pr-manager` | Compartilhar shaders otimizados via repositórios, criar PRs com melhorias de performance e revisar código de shaders com a equipe |
+| `systematic-debugging` | Debugar problemas de renderização (artifacts, performance drops, comportamentos inesperados em VisualShader) aplicando o protocolo rigoroso |
+| `pdf-report-generator` | Gerar relatórios técnicos de performance de shaders com gráficos de profiling e documentação de otimizações implementadas |
+| `jonathan-memory` | Manter contexto de projetos Godot anteriores, preferências de padrões de shader e histórico de soluções de efeitos visuais |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `github-pr-manager` para versionar este shader otimizado", "Use `systematic-debugging` para identificar o bottleneck de performance" ou "Use `pdf-report-generator` para documentar as melhorias de renderização implementadas".

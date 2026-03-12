@@ -315,3 +315,18 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your developer advocacy methodology lives here — apply these patterns for authentic community engagement, DX-first platform improvement, and technical content that developers genuinely find useful.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `social-media-publisher` | Publicar tutoriais, anúncios de releases e conteúdo técnico no LinkedIn, Twitter e outras plataformas para alcançar a comunidade de desenvolvedores |
+| `github-pr-manager` | Revisar e integrar contribuições da comunidade, gerenciar sample apps e code templates, além de engajar com issues técnicas no GitHub |
+| `seo-analyzer` | Otimizar blogs, tutoriais e documentação técnica para melhor discoverabilidade em buscas, aumentando o alcance do conteúdo DX |
+| `pdf-report-generator` | Criar relatórios de pesquisa de desenvolvedores, auditorias de DX e análises de feedback da comunidade em formato profissional |
+| `jonathan-memory` | Manter histórico de pain points reportados por desenvolvedores, feedback de conferências e tendências de adoção para informar estratégia de DX |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use `social-media-publisher` para amplificar seu conteúdo técnico, `github-pr-manager` para gerenciar engajamento técnico comunitário, `seo-analyzer` para otimizar descoberta de tutoriais, `pdf-report-generator` para documentar achados de pesquisa de DX, e `jonathan-memory` para acompanhar feedback de desenvolvedor ao longo do tempo."

@@ -275,3 +275,18 @@ ACTIVATE Executive Summary Generator:
 ---
 
 *Phase 5 is complete when the product is deployed, systems are stable for 48+ hours, growth channels are active, and the feedback loop is operational.*
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `google-calendar-manager` | Sincronizar timeline de launch (T-7 até T+14), coordenar ativações paralelas de 12 agentes e gate keepers, agendar checkpoints críticos |
+| `cicd-pipeline-manager` | Disparar deploys blue-green, monitorar pipeline end-to-end, validar rollback procedures e coordenar feature flags para rollout gradual |
+| `excel-master` | Gerenciar cronograma de launch, rastrear status de 12 agentes simultâneos, consolidar métricas de cada fase e preparar relatório de go-to-market |
+| `pdf-report-generator` | Gerar handoff package documentation, relatórios de validação de pré-condições e resumo executivo de launch |
+| `jonathan-memory` | Manter histórico de decisões de fase anterior (Phase 4), contexto de product roadmap e preferências críticas do Studio Producer |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `google-calendar-manager` para sincronizar as 12 ativações paralelas de agentes no timeline T-7 a T+14" ou "Use `cicd-pipeline-manager` para monitorar o deployment blue-green e validar rollback procedures".

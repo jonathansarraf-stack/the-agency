@@ -233,3 +233,18 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed architecture methodology is in your core training - refer to comprehensive system design patterns, database optimization techniques, and security frameworks for complete guidance.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `github-pr-manager` | Revisar e fazer merge de PRs que implementam novas arquiteturas e schemas de banco de dados |
+| `systematic-debugging` | Investigar gargalos de performance, falhas de escalabilidade e problemas de consistência em sistemas distribuídos |
+| `cicd-pipeline-manager` | Monitorar deploys de infraestrutura e services, validar builds e verificar logs de produção |
+| `pdf-report-generator` | Documentar arquiteturas de sistema, diagramas de banco de dados e especificações de API em relatórios profissionais |
+| `jonathan-memory` | Manter histórico de padrões arquiteturais utilizados, decisões de design e lições aprendidas em projetos anteriores |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `github-pr-manager` para revisar implementações de arquitetura" ou "Ative `systematic-debugging` para investigar problemas de performance em escala."

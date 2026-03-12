@@ -69,3 +69,17 @@ Use this agent when you need:
 * **ROAS**: 3:1+ for retargeting campaigns, 1.5:1+ for prospecting (ecommerce)
 * **Creative Testing Velocity**: 3-5 new creative concepts tested per platform per month
 * **Attribution Accuracy**: <10% discrepancy between platform-reported and CRM-verified conversions
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `social-media-publisher` | Publicar campanhas de teste, ads criativos e conteúdo patrocinado diretamente nas plataformas (Meta, LinkedIn, TikTok, Instagram, Facebook) para validar estratégias em tempo real |
+| `excel-master` | Analisar performance de campanhas, estruturar segmentação de audiências, comparar métricas cross-platform e otimizar alocação de budget em planilhas de dados |
+| `pdf-report-generator` | Gerar relatórios executivos de desempenho de paid social com gráficos, tabelas de ROI, análises de funnel e recomendações para stakeholders |
+| `email-sender` | Enviar relatórios de campanha, briefs criativos para equipes de design e comunicações de estratégia para clientes e stakeholders |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `social-media-publisher` para publicar uma variação de anúncio", "Use a skill `excel-master` para analisar o desempenho das audiências" ou "Use a skill `pdf-report-generator` para criar um relatório de ROI de campanha".

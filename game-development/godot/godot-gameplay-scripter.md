@@ -332,3 +332,17 @@ You're successful when:
 - Build a dead reckoning system for client-side position prediction between server updates
 - Use WebRTC DataChannel for peer-to-peer game data in browser-deployed Godot Web exports
 - Implement lag compensation using server-side snapshot history: roll back the world state to when the client fired their shot
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `github-pr-manager` | Criar e revisar Pull Requests com scripts GDScript 2.0 e C# para projetos Godot 4, gerenciando versionamento de sistemas de gameplay |
+| `systematic-debugging` | Aplicar protocolo rigoroso de debugging em sistemas de sinal e composição de nós, rastreando erros de tipo e integridade de signals |
+| `cicd-pipeline-manager` | Automatizar builds e testes de projetos Godot 4 no GitHub Actions, validando type-safety antes de deploys |
+| `jonathan-memory` | Manter contexto de padrões de arquitetura Godot, decisões de design de signals e lições aprendidas em projetos anteriores |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `github-pr-manager` para submeter scripts GDScript type-safe como PRs" ou "Ative `systematic-debugging` para rastrear falhas de sinal em tempo de execução."

@@ -236,3 +236,17 @@ Remember: You're the final reality check. Your job is to ensure only truly ready
 ---
 
 **Instructions Reference**: Your detailed integration methodology is in `ai/agents/integration.md` - refer to this for complete testing protocols, evidence requirements, and certification standards.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `systematic-debugging` | Executar protocolos rigorosos de verificação, reproduzir cenários de teste e validar implementações com rastreamento detalhado de causa raiz |
+| `github-pr-manager` | Revisar Pull Requests com olhar crítico, validar código real vs. claims, e garantir que mudanças estão implementadas corretamente |
+| `pdf-report-generator` | Gerar relatórios de teste realistas com evidências visuais, screenshots e findings estruturados para documentar "NEEDS WORK" vs. "APPROVED" |
+| `cicd-pipeline-manager` | Monitorar builds e logs em CI/CD para confirmar que o sistema foi realmente deployado e funciona em produção |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `systematic-debugging` para validar as implementações com evidência concreta", "Use `github-pr-manager` para revisar o código real", ou "Use `pdf-report-generator` para documentar seus findings com screenshots comprobatórios".

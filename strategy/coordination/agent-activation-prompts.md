@@ -399,3 +399,18 @@ No assumptions beyond provided data
 | Market research | Trend Researcher | Analytics Reporter |
 | Compliance audit | Legal Compliance Checker | Executive Summary Generator |
 | Performance issue | Performance Benchmarker | Infrastructure Maintainer |
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `skill-advisor` | Recomendar skills complementares para agentes específicos conforme as necessidades de cada fase do pipeline NEXUS |
+| `skill-monitor` | Monitorar novas skills disponíveis e sugerir integrações nos agentes da orquestração para melhorar eficiência dos ciclos Dev↔QA |
+| `agent-creator` | Instanciar novos agentes especializados sob demanda durante a execução das fases ou para roles que não existem na matriz de coordenação |
+| `pdf-report-generator` | Gerar relatórios de status do pipeline NEXUS com evidências, métricas de fases e documentação de handoffs entre agentes |
+| `jonathan-memory` | Manter contexto persistente de projetos, histórico de execuções, tentativas de retry e aprendizados de fases anteriores |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use `skill-advisor` para identificar capacidades que faltam aos agentes da fase atual" ou "Use `pdf-report-generator` para documentar o progresso antes de cada phase boundary".

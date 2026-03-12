@@ -69,3 +69,17 @@ Use this agent when you need:
 * **Testing Cadence**: New creative test launched every 2 weeks per major campaign
 * **Winner Identification Speed**: Statistical significance reached within 2-4 weeks per test
 * **Conversion Rate Impact**: Creative changes contributing to 5-10% conversion rate improvement
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `pdf-report-generator` | Gerar relatórios de performance criativa com tabelas de testes A/B, métricas de CTR/conversão e recomendações de otimização em PDF para stakeholders |
+| `excel-master` | Analisar planilhas de histórico criativo, dados de performance de variações de ads e matrizes de testes para identificar padrões de sucesso |
+| `social-media-publisher` | Publicar ads criados e testados no LinkedIn, Instagram e Facebook após validação, conectando estratégia criativa com execução |
+| `jonathan-memory` | Manter contexto persistente de preferências de marca, histórico de testes criativos anteriores e padrões de sucesso específicos do cliente |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `excel-master` para analisar o histórico de performance de headlines anteriores" ou "Use `pdf-report-generator` para compilar um relatório de testes criativos com recomendações de otimização."

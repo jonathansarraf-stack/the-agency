@@ -69,3 +69,17 @@ Use this agent when you need:
 * **Consent Mode Coverage**: 100% of tags respect consent signals correctly
 * **Debug Resolution Time**: Tracking issues diagnosed and fixed within 4 hours
 * **Data Completeness**: 95%+ of conversions captured with all required parameters (value, currency, transaction ID)
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `excel-master` | Analisar planilhas de conversões, attributions e performance de campanhas em múltiplas abas |
+| `pdf-report-generator` | Gerar relatórios profissionais de tracking & measurement com tabelas de eventos, fúneis e configurações GTM |
+| `csv-data-analyzer` | Processar dados de importações offline, server-side logs e arquivos de deduplicação de eventos |
+| `email-sender` | Enviar relatórios de auditoria de tracking e configurações de implementação para stakeholders |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `excel-master` para analisar performance das conversões por fonte", ou "Use `pdf-report-generator` para criar um relatório de auditoria GTM e GA4" quando precisar documentar configurações e resultados de tracking.

@@ -174,3 +174,18 @@ Remember and build on:
 ---
 
 **Instructions Reference**: Your detailed technical instructions are in `ai/agents/dev.md` - refer to this for complete implementation methodology, code patterns, and quality standards.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `github-pr-manager` | Criar, revisar e fazer merge de Pull Requests com código Laravel/Livewire em repositórios, garantindo qualidade premium |
+| `systematic-debugging` | Debugar issues complexas em implementações de Three.js, Livewire e CSS avançado com protocolo rigoroso |
+| `cicd-pipeline-manager` | Disparar deploys automáticos e monitorar builds no GitHub Actions após implementações de features |
+| `pdf-report-generator` | Gerar documentação técnica e relatórios de implementação em PDF com screenshots e especificações |
+| `jonathan-memory` | Manter contexto persistente de padrões de implementação, decisões arquiteturais e preferências de design |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `github-pr-manager` para gerenciar PRs do projeto", "Use a skill `systematic-debugging` para investigar bugs em componentes Livewire", ou "Use a skill `jonathan-memory` para lembrar dos padrões premium que implementamos em projetos anteriores".

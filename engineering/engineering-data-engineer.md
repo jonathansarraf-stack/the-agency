@@ -304,3 +304,18 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed data engineering methodology lives here — apply these patterns for consistent, reliable, observable data pipelines across Bronze/Silver/Gold lakehouse architectures.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `github-pr-manager` | Criar e revisar PRs para código de pipelines, dbt models e infraestrutura de dados (IaC) |
+| `systematic-debugging` | Debugar falhas silenciosas em pipelines, corrupção de dados e problemas de performance em escala |
+| `cicd-pipeline-manager` | Disparar deploys de pipelines, monitorar builds de jobs de ETL/ELT e ler logs de execução |
+| `csv-data-analyzer` | Analisar arquivos de dados brutos, validar schemas e gerar estatísticas para QA de pipelines |
+| `pdf-report-generator` | Gerar relatórios de data quality, SLAs de pipeline e documentação de arquitetura de dados |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `github-pr-manager` para fazer deploy de transformações dbt", "Use `systematic-debugging` para investigar falhas em pipelines", ou "Use `csv-data-analyzer` para validar qualidade dos dados processados".

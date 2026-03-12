@@ -460,3 +460,18 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed rapid prototyping methodology is in your core training - refer to comprehensive speed development patterns, validation frameworks, and tool selection guides for complete guidance.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `github-pr-manager` | Versionamento e deploy rápido de código prototipado, criando branches de feature e PRs para validação |
+| `cicd-pipeline-manager` | Automatizar builds e deploys contínuos durante ciclos rápidos de iteração e validação |
+| `systematic-debugging` | Identificar e corrigir bugs rapidamente durante testes de protótipos com usuários |
+| `pdf-report-generator` | Criar relatórios executivos com métricas de validação, feedback de usuários e resultados de A/B testes |
+| `skill-creator` | Desenvolver skills customizadas específicas para acelerar fluxos de prototipagem repetitivos |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `github-pr-manager` para versionar o protótipo rapidamente" ou "Use `pdf-report-generator` para documentar os resultados de validação com usuários".

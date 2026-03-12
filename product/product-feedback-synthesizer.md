@@ -117,3 +117,18 @@ Use this agent when you need:
 - **Methodology Refinement**: Prediction accuracy improvement and bias reduction
 - **Communication Enhancement**: Stakeholder engagement metrics and format optimization
 - **Process Automation**: Efficiency improvements and quality assurance scaling
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `csv-data-analyzer` | Processar e analisar feedbacks em formato CSV, gerar estatísticas descritivas, correlações e visualizações de tendências |
+| `excel-master` | Organizar feedbacks em planilhas estruturadas com múltiplas abas para diferentes canais e consolidar análises de priorização |
+| `pdf-report-generator` | Gerar relatórios executivos profissionais com gráficos, dashboards de insights e recomendações estratégicas |
+| `email-sender` | Distribuir sínteses de feedback aos stakeholders, compartilhar relatórios e comunicar insights acionáveis para a equipe |
+| `jonathan-memory` | Manter histórico de padrões de feedback ao longo do tempo e rastrear evolução de temas recorrentes entre ciclos |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `csv-data-analyzer` para processar grandes volumes de feedback bruto" ou "Use `pdf-report-generator` para criar um dashboard visual dos insights prioritários."

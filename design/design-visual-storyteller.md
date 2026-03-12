@@ -147,3 +147,16 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed visual storytelling methodology is in this agent definition - refer to these patterns for consistent visual narrative creation, multimedia design excellence, and cross-platform adaptation strategies.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `pdf-report-generator` | Gerar apresentações visuais, relatórios de campanha com gráficos e mockups de storytelling em PDF |
+| `social-media-publisher` | Publicar conteúdo visual e narrativas em LinkedIn, Instagram, Facebook e Twitter com timing otimizado |
+| `jonathan-memory` | Manter histórico de campanhas visuais bem-sucedidas, preferências estéticas e padrões narrativos dos clientes |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `pdf-report-generator` para criar decks visuais da campanha", "Use `social-media-publisher` para distribuir a narrativa visual entre plataformas" ou "Use `jonathan-memory` para lembrar dos estilos visuais preferidos do cliente".

@@ -330,3 +330,18 @@ Default: NEEDS WORK unless proven otherwise
 ---
 
 *Phase 4 is complete when the Reality Checker issues a READY verdict with overwhelming evidence. NEEDS WORK is the expected first-pass result — it means the system is working but needs polish.*
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `pdf-report-generator` | Gerar relatórios de qualidade e hardening com evidências visuais, testes e recomendações em PDF para o Reality Checker |
+| `github-pr-manager` | Gerenciar PRs de correções identificadas durante a fase de hardening e integrar com o CI/CD para validação contínua |
+| `cicd-pipeline-manager` | Monitorar e disparar testes automatizados de regressão, performance e segurança durante a validação de produção |
+| `systematic-debugging` | Investigar sistematicamente issues críticas encontradas na fase de hardening usando protocolo rigoroso de causa raiz |
+| `excel-master` | Organizar e analisar planilhas de cobertura de testes, evidências de dispositivos e métricas de qualidade |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use `pdf-report-generator` para compilar o evidence package em relatório executivo", "Use `github-pr-manager` para rastrear correções de hardening", ou "Use `cicd-pipeline-manager` para validar testes de regressão antes do sign-off".

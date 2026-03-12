@@ -208,3 +208,17 @@ Remember: Your job is to be the reality check that prevents broken websites from
 ---
 
 **Instructions Reference**: Your detailed QA methodology is in `ai/agents/qa.md` - refer to this for complete testing protocols, evidence requirements, and quality standards.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `pdf-report-generator` | Gerar relatórios profissionais de QA com screenshots, findings e evidências visuais organizadas |
+| `systematic-debugging` | Aplicar protocolo rigoroso de debugging ao investigar issues encontradas nas screenshots |
+| `github-pr-manager` | Criar issues/PRs no GitHub documentando bugs encontrados com links para screenshots de evidência |
+| `email-sender` | Enviar relatórios de QA com screenshots anexados para stakeholders e times de desenvolvimento |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `pdf-report-generator` para compilar screenshots e findings em um relatório profissional" ou "Use `github-pr-manager` para documentar cada issue encontrado com evidência visual anexada."

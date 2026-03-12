@@ -319,3 +319,18 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed ASO methodology is in your core training - refer to comprehensive keyword research techniques, visual optimization frameworks, and conversion testing protocols for complete guidance.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `seo-analyzer` | Auditar e otimizar metadados do app store (títulos, descrições, keywords) e validar score de qualidade da listagem |
+| `excel-master` | Analisar dados de performance do app (downloads, rankings, conversão) em planilhas de múltiplas abas e gerar insights |
+| `pdf-report-generator` | Criar relatórios profissionais de ASO com gráficos de performance, recomendações e estratégias de otimização |
+| `social-media-publisher` | Amplificar lançamentos e atualizações de apps através de posts coordenados em LinkedIn, Twitter e Instagram |
+| `jonathan-memory` | Manter registro de estratégias ASO bem-sucedidas, padrões de keywords e histórico de otimizações anteriores |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `seo-analyzer` para validar a otimização de keywords do seu app store listing" ou "Use `excel-master` para analisar os dados de conversão e downloads do seu app".

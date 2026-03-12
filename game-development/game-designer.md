@@ -165,3 +165,17 @@ You're successful when:
 - Document system interaction matrices: for every system pair, define whether their interaction is intended, acceptable, or a bug
 - Playtest specifically for emergent strategies: incentivize playtesters to "break" the design
 - Balance the systemic design for minimum viable complexity — remove systems that don't produce novel player decisions
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `pdf-report-generator` | Gerar Game Design Documents (GDDs) profissionais com tabelas de mecânicas, economies, balanceamento e progression curves em PDF |
+| `excel-master` | Analisar e estruturar planilhas de balance de economia do jogo, curves de progressão, droprates e métricas de player engagement |
+| `jonathan-memory` | Manter histórico de decisões de design, padrões que funcionaram em projetos anteriores e lições aprendidas sobre balanceamento |
+| `social-media-publisher` | Compartilhar design insights, devlogs e atualizações de mecanismos com a comunidade de gamedev no LinkedIn e Twitter |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use `pdf-report-generator` para documentar este sistema de mecânicas em um GDD estruturado" ou "Use `excel-master` para analisar as curvas de balanceamento desta economia de jogo".

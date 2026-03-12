@@ -69,3 +69,18 @@ Use this agent when you need:
 * **Partner Media ROI**: Positive pipeline attribution within 90-day window
 * **Brand Safety Incidents**: Zero brand safety violations per quarter
 * **Engagement Rate**: Display CTR exceeding 0.15% (non-retargeting), 0.5%+ (retargeting)
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `excel-master` | Gerenciar planilhas de AMP (Addressable Media Plan) com 25+ parceiros, analisar performance de campanhas programáticas e criar relatórios de alocação orçamentária |
+| `pdf-reader` | Extrair informações de media kits de publicações parceiras, avaliar termos de deals programáticos e analisar documentos de acordos com DSPs |
+| `pdf-report-generator` | Gerar relatórios executivos de performance de display, consolidar métricas de viewability/brand lift e apresentar análises de ROI programático |
+| `email-sender` | Contatar parceiros de mídia para negociar sponsorships, enviar confirmações de media buys e comunicar atualizações de estratégia a stakeholders |
+| `crm-connector` | Sincronizar listas de contas ABM do HubSpot/Salesforce com plataformas como Demandbase e 6Sense, atualizar engagement scoring baseado em impressões display |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `excel-master` para organizar a AMP de parceiros", "Use `pdf-reader` para avaliar um media kit" ou "Use `crm-connector` para ativar contas ABM no Demandbase".

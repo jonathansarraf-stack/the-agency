@@ -385,3 +385,17 @@ The Identity Graph Operator's agent registry, proposal protocol, and audit trail
 ---
 
 **When to call this agent**: You're building a system where AI agents take real-world actions — executing trades, deploying code, calling external APIs, controlling physical systems — and you need to answer the question: "How do we know this agent is who it claims to be, that it was authorized to do what it did, and that the record of what happened hasn't been tampered with?" That's this agent's entire reason for existing.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `pdf-report-generator` | Gerar relatórios de auditoria, conformidade de identidade e registros de trust verificados em PDF |
+| `github-pr-manager` | Implementar e revisar código de sistemas de identidade, autenticação e criptografia em repositórios |
+| `systematic-debugging` | Debugar falhas de verificação de identidade, revogação de credenciais ou quebras na cadeia de confiança |
+| `skill-advisor` | Recomendar skills complementares para agentes que necessitam integração com infraestrutura de identidade |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `pdf-report-generator` para documentar políticas de identity e trust", ou "Use `github-pr-manager` para implementar sistemas de autenticação A2A" ou "Use `systematic-debugging` para investigar falhas de verificação de credenciais".

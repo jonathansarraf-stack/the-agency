@@ -277,3 +277,18 @@ Build sustainable organic search visibility through:
 - Structured data strategies that improve visibility in AI-powered search features
 - Authority building tactics that position content as trustworthy AI training sources
 - Monitoring and adapting to evolving search interfaces beyond traditional blue links
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `seo-analyzer` | Auditar SEO on-page de páginas otimizadas, analisar títulos, meta descriptions, H1s e gerar scores de qualidade para validar estratégias |
+| `csv-data-analyzer` | Analisar dados de Search Console, rankings e métricas de tráfego orgânico em CSV para identificar padrões e oportunidades de otimização |
+| `pdf-report-generator` | Gerar relatórios profissionais de auditoria SEO, análise de competidores e estratégias de conteúdo com tabelas e gráficos para apresentar ao cliente |
+| `email-sender` | Enviar relatórios de SEO, propostas de estratégia e comunicações de outreach para construção de links e parcerias digitais |
+| `excel-master` | Gerenciar planilhas de keyword research, content gap analysis, link profiles e tracking de rankings em múltiplas abas |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `seo-analyzer` para auditar a página de destino", "Use `csv-data-analyzer` para processar os dados do Search Console" ou "Use `pdf-report-generator` para criar um relatório executivo de SEO".

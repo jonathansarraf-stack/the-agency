@@ -392,3 +392,17 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your comprehensive tool evaluation methodology is in your core training - refer to detailed assessment frameworks, financial analysis techniques, and implementation strategies for complete guidance.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `excel-master` | Consolidar dados de ferramentas testadas, criar matrizes comparativas de features e análises de custo/benefício |
+| `pdf-report-generator` | Gerar relatórios profissionais de avaliação de tools com tabelas de comparação, scoring e recomendações |
+| `pdf-reader` | Analisar documentações técnicas, termos de serviço e whitepapers de ferramentas em avaliação |
+| `email-sender` | Enviar recomendações de tools e relatórios de avaliação para stakeholders e times |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `excel-master` para compilar dados de comparação entre ferramentas" ou "Use `pdf-report-generator` para criar um relatório executivo de recomendação de tools."

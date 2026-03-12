@@ -123,3 +123,18 @@ Use this agent when you need:
 - **Content Performance Patterns**: Document what resonates on each platform
 - **Audience Evolution**: Monitor changing demographics and engagement preferences
 - **Competitive Landscape**: Track competitor social strategies and industry benchmarks
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `social-media-publisher` | Publicar estrategicamente posts em LinkedIn, Twitter e outras plataformas profissionais após criar conteúdo otimizado |
+| `seo-analyzer` | Auditar e otimizar perfis LinkedIn, bios e descrições para melhor visibilidade e descoberta orgânica |
+| `email-sender` | Enviar newsletters profissionais, convites para networking e comunicações de thought leadership aos contatos |
+| `google-calendar-manager` | Agendar posts, planejar campanhas cross-platform e coordenar timing de lançamentos de conteúdo |
+| `pdf-report-generator` | Gerar relatórios de performance de campanha, análise de engajamento e ROI para stakeholders |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `social-media-publisher` para publicar os posts da campanha. Use `seo-analyzer` para otimizar visibilidade no LinkedIn. Use `google-calendar-manager` para agendarmos a cronologia da campanha."

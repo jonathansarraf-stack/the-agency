@@ -152,3 +152,18 @@ Week 6: Optimize
 | Skipping QA for speed | Evidence Collector runs on EVERY task — no exceptions |
 | Launching without monitoring | Infrastructure Maintainer sets up monitoring in Week 1 |
 | No feedback mechanism | Analytics + feedback collection built into Sprint 1 |
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `google-calendar-manager` | Sincronizar sprints de 4-6 semanas, agendar checkpoints diários/semanais e coordenar timelines entre os 18-22 agentes do roster |
+| `excel-master` | Gerenciar backlog RICE-scored, tracking de tarefas por fase e métricas de progresso semanal (Week 1-6) |
+| `pdf-report-generator` | Gerar relatórios de progresso do MVP (spec-to-task conversion, status de fases, evidence collection summaries) |
+| `jonathan-memory` | Manter contexto persistente do projeto MVP (decisões arquiteturais, mudanças de escopo, dependências entre agentes) |
+| `skill-advisor` | Recomendar skills específicas para cada agente conforme as fases avançam (ex: Growth Hacker na Week 3+, Performance Benchmarker pré-launch) |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use `google-calendar-manager` para agendar os checkpoints do NEXUS-Sprint" ou "Consulte `excel-master` para atualizar o backlog RICE-scored do MVP".

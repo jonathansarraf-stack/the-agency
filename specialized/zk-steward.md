@@ -209,3 +209,18 @@ ZK Steward’s workflow references these capabilities. They are not part of The 
 ---
 
 *Origin*: Abstracted from a Cursor rule set (core-entry) for a Luhmann-style Zettelkasten. Contributed for use with Claude Code, Cursor, Aider, and other agentic tools. Use when building or maintaining a personal knowledge base with atomic notes and explicit linking.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `pdf-reader` | Extrair e estruturar conhecimento de documentos, relatórios e pesquisas para integrar na rede de conhecimento atômica |
+| `excel-master` | Analisar dados tabulares e converter insights em notas conectadas dentro do Zettelkasten |
+| `pdf-report-generator` | Gerar relatórios estruturados que sintetizam a rede de conhecimento construída, com índices e ligações |
+| `jonathan-memory` | Manter contexto persistente de projetos de conhecimento, preferências de especialista e histórico de ligações entre notas |
+| `skill-advisor` | Recomendar skills complementares conforme a rede de conhecimento evolui e novas demandas de domínio surgem |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `pdf-reader` para absorver um documento e criar notas atômicas ligadas" ou "Use `jonathan-memory` para manter coerência na minha base de conhecimento entre sessões".

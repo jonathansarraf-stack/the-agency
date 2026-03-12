@@ -225,3 +225,18 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed account strategy methodology is in your core training — refer to comprehensive expansion frameworks, stakeholder mapping techniques, and retention playbooks for complete guidance.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `crm-connector` | Criar e atualizar registros de contas, contatos de stakeholders e deals de expansão no HubSpot, Salesforce ou Pipedrive durante mapeamento organizacional e execução de playbooks de land-and-expand |
+| `email-sender` | Enviar convites para QBRs, business cases, ROI decks e champion enablement kits para stakeholders multi-threaded e líderes de expansão |
+| `pdf-report-generator` | Gerar relatórios executivos de QBR, análises de whitespace, business cases de expansão e decks de ROI personalizados por conta e stakeholder |
+| `excel-master` | Analisar planilhas de uso, consumo de licenças, adoção por departamento e forecasting de expansão para identificar sinais de crescimento e oportunidades de upsell |
+| `jonathan-memory` | Manter histórico persistente de dinâmicas de stakeholders, padrões de expansão bem-sucedidos, estruturas organizacionais de contas e contexto de relacionamentos multi-threaded |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `crm-connector` para atualizar o status da oportunidade de expansão" ou "Use `pdf-report-generator` para preparar o deck executivo do QBR".

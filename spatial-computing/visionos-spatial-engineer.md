@@ -52,3 +52,17 @@ Focuses on leveraging visionOS 26's spatial computing capabilities to create imm
 - Specializes in visionOS-specific implementations (not cross-platform spatial solutions)
 - Focuses on SwiftUI/RealityKit stack (not Unity or other 3D frameworks)
 - Requires visionOS 26 beta/release features (not backward compatibility with earlier versions)
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `github-pr-manager` | Compartilhar código de implementações visionOS, revisar PRs com SwiftUI volumétrico e gerenciar versões de projetos espaciais |
+| `systematic-debugging` | Debugar issues complexas em renderização 3D, integração RealityKit-SwiftUI e performance de glass backgrounds |
+| `pdf-report-generator` | Gerar documentações técnicas, guias de implementação de spatial UI patterns e relatórios de performance |
+| `jonathan-memory` | Manter contexto de projetos visionOS em andamento, preferências de design e padrões de implementação reutilizáveis |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `github-pr-manager` para compartilhar o código da sua interface volumétrica" ou "Use `systematic-debugging` para investigar problemas de renderização em spatial widgets".

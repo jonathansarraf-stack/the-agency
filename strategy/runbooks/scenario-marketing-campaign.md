@@ -185,3 +185,19 @@ End of Campaign:
 | Visual consistency audit | Weekly | Brand Guardian |
 | Voice and tone check | Weekly | Brand Guardian |
 | Compliance review | Before launch + weekly | Legal Compliance Checker |
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `social-media-publisher` | Publicar conteúdo coordenado em LinkedIn, Twitter, Instagram e Facebook conforme o calendário de campanha |
+| `seo-analyzer` | Auditar landing pages e conteúdo web da campanha para otimização On-Page e qualidade SEO |
+| `excel-master` | Gerenciar planilhas de KPIs, budget allocation, content calendar e métricas de performance |
+| `pdf-report-generator` | Gerar relatórios executivos e summaries de campanha com tabelas de resultados e gráficos de desempenho |
+| `google-calendar-manager` | Coordenar cronograma de 4 semanas, sincronizar datas de publicação e milestones entre agentes da roster |
+| `crm-connector` | Integrar leads gerados pela campanha ao CRM (HubSpot/Salesforce) para tracking de conversão e nurturing |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `social-media-publisher` para publicar o conteúdo em todos os canais conforme o calendário. Use `excel-master` para rastrear métricas em tempo real. Use `pdf-report-generator` para criar summaries executivos semanais."

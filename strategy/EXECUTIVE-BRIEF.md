@@ -93,3 +93,18 @@ strategy/
 ---
 
 *NEXUS: 9 Divisions. 7 Phases. One Unified Strategy.*
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `pdf-report-generator` | Gerar relatórios executivos estruturados com métricas de impacto, handoffs e timelines para stakeholders |
+| `excel-master` | Analisar dados de performance dos 9 agentes, timelines de projetos e métricas de eficiência (40-60% compression tracking) |
+| `google-calendar-manager` | Coordenar parallelização dos 4 workstreams (Core Product, Growth, Quality, Brand) e agendar handoffs estruturados |
+| `skill-advisor` | Recomendar skills complementares para agentes que enfrentam gaps de coordenação em handoffs |
+| `agent-creator` | Instanciar novos agentes especializados ou templates de coordenação quando a rede estratégica necessita expansão |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use `pdf-report-generator` para sintetizar findings em briefings executivos" ou "Use `google-calendar-manager` para visualizar a parallelização dos workstreams e detectar gargalos de handoff."

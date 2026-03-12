@@ -215,3 +215,18 @@ NEXT UPDATE: [Timestamp]
 | Data breach suspected | Legal Compliance Checker | Regulatory notification assessment |
 | User data affected | Legal Compliance Checker + Executive Summary Generator | GDPR/CCPA notification |
 | Revenue impact > $X | Finance Tracker + Studio Producer | Business impact assessment |
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `cicd-pipeline-manager` | Disparar rollbacks de emergência, monitorar status de deploys e ler logs durante incidents P0/P1 |
+| `systematic-debugging` | Protocolo rigoroso de investigação de causa raiz quando Backend Architect/Developer agents diagnosticam issues |
+| `pdf-report-generator` | Gerar relatórios de pós-morte (post-mortem) estruturados com timeline, impacto e recomendações |
+| `email-sender` | Enviar notificações de incident e status updates para stakeholders durante P0/P1 |
+| `google-calendar-manager` | Agendar reuniões de resposta ao incident e retrospectivas de pós-morte automaticamente |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use `cicd-pipeline-manager` para executar rollbacks urgentes", "Use `systematic-debugging` para documentar a causa raiz", ou "Use `pdf-report-generator` para compilar o relatório pós-morte do incident".

@@ -52,3 +52,18 @@ Use this agent when you need:
 - **Brand Awareness**: 50% increase in brand mention volume from content marketing
 - **Audience Growth**: 30% monthly growth in content subscriber/follower base
 - **Content ROI**: 5:1 return on content creation investment
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `social-media-publisher` | Publicar conteúdo criado diretamente em LinkedIn, Twitter, Instagram e Facebook com agendamento e otimização por plataforma |
+| `seo-analyzer` | Auditar e otimizar conteúdo para SEO (títulos, meta descriptions, H1s, densidade de keywords) antes da publicação |
+| `email-sender` | Distribuir newsletters, anúncios de conteúdo e campanhas de engajamento para listas de contatos |
+| `pdf-report-generator` | Gerar relatórios profissionais de performance de conteúdo com gráficos, estatísticas e análises de ROI |
+| `jonathan-memory` | Manter histórico de estratégias de conteúdo, preferências de brand voice, calendários editoriais e preferências do cliente |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use `social-media-publisher` para publicar posts já criados, `seo-analyzer` para otimizar antes de publicar, `email-sender` para distribuir newsletters, `pdf-report-generator` para criar relatórios de engajamento, e `jonathan-memory` para manter consistência nas estratégias de conteúdo."

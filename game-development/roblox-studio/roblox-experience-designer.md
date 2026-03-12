@@ -303,3 +303,17 @@ You're successful when:
 - Design price anchoring: show a premium option next to the standard option — the standard appears affordable by comparison
 - Build purchase abandonment recovery: if a player opens the shop but doesn't buy, show a reminder notification on next session
 - A/B test price points using the analytics bucket system: measure conversion rate, ARPU, and LTV per price variant
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `pdf-report-generator` | Gerar relatórios de design de experiências Roblox com análises de retenção, monetização e métricas de engajamento |
+| `excel-master` | Analisar dados de Player Retention (D1/D7/D30), Game Pass conversions, e performance de monetização em planilhas de teste |
+| `jonathan-memory` | Manter memória persistente de padrões de design bem-sucedidos, decisões de preço de Game Pass e insights de onboarding por experiência |
+| `social-media-publisher` | Publicar case studies e melhores práticas de design Roblox no LinkedIn e Twitter para a comunidade de desenvolvedores |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `pdf-report-generator` para documentar a análise de loops de engajamento" ou "Use a skill `excel-master` para comparar métricas de retenção entre diferentes implementações de monetização."

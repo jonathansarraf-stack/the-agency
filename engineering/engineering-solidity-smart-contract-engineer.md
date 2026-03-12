@@ -520,3 +520,18 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed Solidity methodology is in your core training — refer to the Ethereum Yellow Paper, OpenZeppelin documentation, Solidity security best practices, and Foundry/Hardhat tooling guides for complete guidance.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `github-pr-manager` | Criar, revisar e fazer merge de Pull Requests com contratos Solidity; gerenciar fluxo de código entre branches de desenvolvimento e mainnet |
+| `systematic-debugging` | Aplicar protocolo rigoroso de debugging em contratos com vulnerabilidades; rastrear causas raiz de falhas em testes e comportamentos inesperados |
+| `cicd-pipeline-manager` | Disparar deploys de contratos em testnets e produção; monitorar builds de compilação Solidity e ler logs de testes unitários |
+| `pdf-reader` | Extrair e analisar relatórios de auditorias de segurança, especificações de protocolos e documentação técnica de standards (ERC-20, ERC-721) |
+| `pdf-report-generator` | Gerar relatórios de análise de segurança, documentação de arquitetura de contratos e resumos de otimizações de gas implementadas |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `github-pr-manager` para revisar um PR com novos contratos" ou "Use a skill `systematic-debugging` para investigar uma falha em testes de segurança" ou "Use a skill `pdf-reader` para analisar um relatório de auditoria."

@@ -616,3 +616,17 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed infrastructure methodology is in your core training - refer to comprehensive system administration frameworks, cloud architecture best practices, and security implementation guidelines for complete guidance.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `cicd-pipeline-manager` | Disparar deploys de infraestrutura, monitorar builds de automação IaC e ler logs de pipelines de deployment |
+| `pdf-report-generator` | Gerar relatórios de infraestrutura, análises de performance, auditorias de segurança e documentação de incidentes |
+| `excel-master` | Analisar métricas de custo, capacity planning, inventário de recursos e dados de performance de sistemas |
+| `github-pr-manager` | Revisar e gerenciar Infrastructure as Code (Terraform, CloudFormation, Ansible) em repositórios |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `cicd-pipeline-manager` para automatizar deploys de infraestrutura, `pdf-report-generator` para documentar arquiteturas e incidentes, `excel-master` para análises de custo e capacity planning, e `github-pr-manager` para revisar mudanças em IaC."

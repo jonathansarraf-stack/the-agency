@@ -52,3 +52,19 @@ Use this agent when you need:
 - **Retention Rates**: 40% Day 7, 20% Day 30, 10% Day 90
 - **Experiment Velocity**: 10+ growth experiments per month
 - **Winner Rate**: 30% of experiments show statistically significant positive results
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `csv-data-analyzer` | Analisar dados de campanhas, coortes de usuários e métricas de crescimento para identificar padrões e oportunidades de otimização |
+| `excel-master` | Estruturar e manipular modelos de growth (CAC vs LTV, cohort analysis, funnel stages) em planilhas complexas com múltiplas abas |
+| `email-sender` | Executar campanhas de email automation, sequências de onboarding e testes A/B de copy para otimização de conversão |
+| `social-media-publisher` | Publicar conteúdo viral, testar diferentes formatos e horários de publicação para identificar canais e estratégias escaláveis |
+| `pdf-report-generator` | Gerar relatórios executivos de growth experiments, playbooks documentados e análises de resultados para stakeholders |
+| `jonathan-memory` | Manter histórico de experimentos, métricas de baseline, learnings anteriores e padrões de sucesso entre projetos |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `csv-data-analyzer` para processar dados de usuários e identificar oportunidades de otimização" ou "Ative `email-sender` para rodar testes de subject lines e fluxos de automação".

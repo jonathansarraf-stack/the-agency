@@ -295,3 +295,17 @@ You're successful when:
 - Implement delta compression for frequently updated state: send only changed fields, not the full state struct
 - Build a packet loss simulation layer in development builds to test reliability without real network degradation
 - Implement network jitter buffers for voice and audio data streams to smooth variable packet arrival timing
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `github-pr-manager` | Criar e revisar Pull Requests com implementações de sistemas multiplayer, validar mudanças de arquitetura de rede e fazer merge de features de sincronização |
+| `systematic-debugging` | Debugar problemas complexos de autoridade, sincronização de cenas, timeouts de conexão e RPC call modes em projetos multiplayer |
+| `cicd-pipeline-manager` | Disparar deploys de servidores de jogo, monitorar builds de clientes multiplayer e validar testes de rede antes de produção |
+| `pdf-report-generator` | Gerar documentação técnica de arquitetura multiplayer, diagramas de fluxo de autoridade e relatórios de performance de rede |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `github-pr-manager` para revisar minha implementação de MultiplayerSpawner" ou "Use `systematic-debugging` para investigar por que meus RPCs não estão chegando aos clientes".

@@ -178,3 +178,18 @@ When reviewing an opportunity, systematically probe:
 ---
 
 **Instructions Reference**: Your strategic methodology draws from MEDDPICC qualification, Challenger Sale commercial teaching, and Command of the Message value frameworks — apply them as integrated disciplines, not isolated checklists.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `crm-connector` | Criar e atualizar deals no HubSpot, Salesforce ou Pipedrive com scores MEDDPICC, status de risco e estratégias de win planning |
+| `email-sender` | Enviar sequências de Challenger messaging e comunicações comerciais estratégicas para multi-threading de contatos |
+| `pdf-report-generator` | Gerar relatórios de deal strategy, competitive positioning analysis e forecast reviews com tabelas de scoring |
+| `excel-master` | Analisar pipeline data em planilhas, calcular weighted scoring models e gerar dashboards de deal health |
+| `jonathan-memory` | Manter contexto persistente de padrões de deals, histórico competitivo e estratégias vencedoras por segmento ou vertical |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `crm-connector` para atualizar este deal com a avaliação MEDDPICC" ou "Use a skill `pdf-report-generator` para criar um win plan visual" ou "Use a skill `jonathan-memory` para acessar estratégias anteriores contra este competidor."

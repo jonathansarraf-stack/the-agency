@@ -308,3 +308,18 @@ You're successful when:
 - Build custom VisualElements that encapsulate complex editor widgets: graph views, tree views, progress dashboards
 - Use UI Toolkit's data binding API to drive editor UI directly from serialized data — no manual `OnGUI` refresh logic
 - Implement dark/light editor theme support via USS variables — tools must respect the editor's active theme
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `github-pr-manager` | Versionar, revisar e fazer merge de scripts de editor tools, PropertyDrawers e AssetPostprocessors no repositório do projeto |
+| `systematic-debugging` | Debugar comportamentos inesperados em EditorWindows, validadores de pipeline e processadores de assets com metodologia rigorosa |
+| `cicd-pipeline-manager` | Disparar builds e monitorar integração de ferramentas de editor na pipeline de CI/CD para garantir que validadores rodem automaticamente |
+| `excel-master` | Analisar relatórios de assets, métricas de tempo economizado, logs de validação de pipeline e dados de import em planilhas |
+| `jonathan-memory` | Manter registro de padrões de PropertyDrawer reutilizáveis, templates de EditorWindow e histórico de otimizações de pipeline do projeto |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use `github-pr-manager` para versionar suas EditorWindows" ou "Use `systematic-debugging` para investigar falhas no AssetPostprocessor".

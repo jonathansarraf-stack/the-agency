@@ -117,3 +117,18 @@ Give me specific changes, not general advice.
 2. **Merge point**: Frontend Developer needs both outputs before starting
 3. **Feedback loop**: Growth Hacker reviews, then Frontend Developer applies changes
 4. **Time-boxed**: Each step has a clear timebox to prevent scope creep
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `github-pr-manager` | Criar e gerenciar Pull Requests para o código HTML/Tailwind CSS do Frontend Developer, facilitando revisão e merge da landing page |
+| `cicd-pipeline-manager` | Disparar deploys automáticos e monitorar builds da landing page após o código estar pronto, garantindo go-live no mesmo dia |
+| `pdf-report-generator` | Gerar relatório final da sprint com screenshots, specs de design, métricas de performance e checklist de conversão para stakeholders |
+| `google-calendar-manager` | Sincronizar milestones do workflow (Copy → Design → Build → Optimize) com calendários da equipe e definir deadlines para cada fase |
+| `seo-analyzer` | Validar SEO On-Page da landing page finalizada (meta tags, H1s, readability) para garantir visibilidade orgânica pós-launch |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `github-pr-manager` para versionar o código da landing page", "Use `cicd-pipeline-manager` para fazer o deploy ao final da sprint", "Use `pdf-report-generator` para documentar resultados", "Use `google-calendar-manager` para sincronizar prazos do time" ou "Use `seo-analyzer` para validar otimizações de busca antes do go-live".

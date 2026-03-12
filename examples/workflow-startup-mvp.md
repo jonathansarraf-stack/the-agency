@@ -153,3 +153,18 @@ Require evidence for each criterion.
 - Copy-paste agent outputs between steps — don't summarize, use the full output
 - If a Reality Checker flags an issue, loop back to the relevant specialist to fix it
 - Keep the Orchestrator agent in mind for automating this flow once you're comfortable with the manual version
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `google-calendar-manager` | Criar e gerenciar sprints semanais, marcos de milestone e deadlines no calendário do projeto |
+| `github-pr-manager` | Coordenar pull requests entre os agentes developers (Frontend, Backend) e garantir merges antes de cada milestone |
+| `pdf-report-generator` | Gerar relatórios de sprint, research briefs, e documentação de arquitetura para entregar aos stakeholders |
+| `excel-master` | Rastrear progresso de cada sprint, prioridades de features, e burn-down charts do projeto de 4 semanas |
+| `jonathan-memory` | Manter contexto persistente do projeto RetroBoard, decisões arquiteturais e feedback dos agentes ao longo dos 4 sprints |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use `google-calendar-manager` para agendar as ativações dos agentes da equipe", "Use `github-pr-manager` para validar entregas de código antes de avançar sprints", "Use `pdf-report-generator` para documentar decisões arquiteturais" ou "Use `jonathan-memory` para manter rastreabilidade das prioridades ao longo do projeto".

@@ -105,3 +105,19 @@ This agent fills a critical gap between several existing `agency-agents` roles. 
 | **Infrastructure Maintainer** | Server uptime, CI/CD, database scaling. | Focuses on *Third-Party API* uptime. If Anthropic goes down or Firecrawl rate-limits you, this agent ensures the fallback routing kicks in seamlessly. |
 | **Performance Benchmarker** | Server load testing, DB query speed. | Executes *Semantic Benchmarking*. It tests whether a new, cheaper AI model is actually smart enough to handle a specific dynamic task before routing traffic to it. |
 | **Tool Evaluator** | Human-driven research on which SaaS tools a team should buy. | Machine-driven, continuous API A/B testing on live production data to autonomously update the software's routing table. |
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `cicd-pipeline-manager` | Disparar deploys de modelos otimizados em produção, monitorar builds e acessar logs de execução das rotas de tráfego automático |
+| `csv-data-analyzer` | Analisar métricas históricas de custo, latência e taxa de alucinação dos modelos LLM para fundamentar decisões de roteamento |
+| `systematic-debugging` | Investigar falhas em modelos shadow-testados, identificar causas raiz de anomalias de custo ou segurança e validar correções antes do auto-promote |
+| `excel-master` | Gerenciar planilhas de orçamento, limites de gastos por modelo/endpoint e circuit breakers financeiros configuráveis |
+| `pdf-report-generator` | Gerar relatórios executivos de otimização automática com métricas de custo-benefício, comparação de modelos e conformidade com guardrails |
+| `skill-advisor` | Recomendar novas skills quando novos modelos LLM ou APIs de otimização forem identificados como candidatos ao shadow testing |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `cicd-pipeline-manager` para promover um modelo otimizado após validação em shadow test" ou "Use a skill `csv-data-analyzer` para justificar as decisões de roteamento automático com dados históricos de performance."

@@ -276,3 +276,18 @@ Verdict: PASS / FAIL with specific issues
 ---
 
 *Phase 2 is complete when the skeleton application is running, the CI/CD pipeline is operational, and the Evidence Collector has verified all foundation elements with screenshots.*
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `cicd-pipeline-manager` | Disparar deploys, monitorar builds e ler logs do GitHub Actions durante a configuração e validação da pipeline de CI/CD |
+| `github-pr-manager` | Criar e gerenciar Pull Requests para as mudanças de infraestrutura, pipeline e configurações de ambiente |
+| `pdf-report-generator` | Gerar relatórios de entrega do Phase 2 documentando a infraestrutura, pipeline e configurações implementadas |
+| `excel-master` | Acompanhar e documentar recursos de infraestrutura, variáveis de ambiente e configurações multi-ambiente em planilhas |
+| `systematic-debugging` | Diagnosticar problemas em falhas de pipeline, configuração de infraestrutura ou inconsistências entre ambientes |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `cicd-pipeline-manager` para monitorar e validar o build da pipeline", "Use a skill `github-pr-manager` para versionar as mudanças de infraestrutura", "Use a skill `pdf-report-generator` para documentar a entrega do Phase 2", "Use a skill `excel-master` para rastrear recursos e configurações", ou "Use a skill `systematic-debugging` para diagnosticar falhas de ambiente".

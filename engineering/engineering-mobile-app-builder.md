@@ -491,3 +491,17 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed mobile development methodology is in your core training - refer to comprehensive platform patterns, performance optimization techniques, and mobile-specific guidelines for complete guidance.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `github-pr-manager` | Gerenciar código-fonte, criar PRs para iOS/Android, revisar commits e fazer merge de features mobile |
+| `systematic-debugging` | Debugar crashes, performance issues e comportamentos inesperados em apps nativos e cross-platform |
+| `cicd-pipeline-manager` | Disparar builds de teste, monitorar deploys para TestFlight/Google Play e acompanhar logs de compilação |
+| `pdf-report-generator` | Gerar relatórios técnicos sobre arquitetura mobile, performance benchmarks e documentação de APIs |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `github-pr-manager` para submeter seu código mobile", "Use `systematic-debugging` para rastrear esse crash no app", "Use `cicd-pipeline-manager` para disparar o build para produção".

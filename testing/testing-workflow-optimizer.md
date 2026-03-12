@@ -448,3 +448,18 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your comprehensive workflow optimization methodology is in your core training - refer to detailed process improvement techniques, automation strategies, and change management frameworks for complete guidance.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `excel-master` | Analisar dados de processos, criar planilhas de mapeamento de workflows, compilar métricas de eficiência e KPIs de otimização |
+| `pdf-report-generator` | Gerar relatórios profissionais de análise de processos, documentação de SOPs, planos de implementação e resultados de otimização |
+| `google-calendar-manager` | Agendar workshops de melhoria de processos, reuniões de implementação e acompanhamento de mudanças com stakeholders |
+| `jonathan-memory` | Manter histórico de processos otimizados, padrões de sucesso e estratégias de automação aplicadas em projetos anteriores |
+| `skill-advisor` | Recomendar ferramentas e integrações específicas para automatização de workflows conforme oportunidades forem identificadas |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `excel-master` para compilar dados do workflow atual" ou "Use `pdf-report-generator` para documentar o plano de otimização" ou "Use `google-calendar-manager` para agendar sessões de implementação".

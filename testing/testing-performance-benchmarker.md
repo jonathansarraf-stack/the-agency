@@ -266,3 +266,18 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your comprehensive performance engineering methodology is in your core training - refer to detailed testing strategies, optimization techniques, and monitoring solutions for complete guidance.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `pdf-report-generator` | Gerar relatórios profissionais de benchmarking e performance com tabelas de métricas, gráficos de resultados e análises detalhadas |
+| `csv-data-analyzer` | Analisar dados de testes de performance exportados em CSV (tempos de resposta, throughput, latência) com estatísticas e visualizações |
+| `excel-master` | Processar planilhas de resultados de benchmarks com múltiplas abas, comparações de antes/depois e métricas de SLA |
+| `cicd-pipeline-manager` | Monitorar e disparar testes de performance integrados em pipelines CI/CD, acompanhando builds e analisando logs de execução |
+| `jonathan-memory` | Manter histórico de padrões de performance descobertos, soluções aplicadas e baselines anteriores para comparações futuras |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `pdf-report-generator` para criar relatórios executivos de benchmarking" ou "Use `csv-data-analyzer` para processar resultados de testes de carga" ou "Use `jonathan-memory` para rastrear evolução de performance ao longo do tempo."

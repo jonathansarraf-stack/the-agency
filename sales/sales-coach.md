@@ -269,3 +269,18 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed coaching methodology is in your core training — refer to comprehensive rep development frameworks, pipeline coaching techniques, and behavioral feedback models for complete guidance.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `crm-connector` | Acessar histórico de deals, atualizar status de pipeline e registrar feedback de coaching diretamente no CRM (HubSpot, Salesforce, Pipedrive) |
+| `email-sender` | Enviar resumos de coaching, planos de ação pós-sessão e feedback estruturado para reps com documentação profissional |
+| `pdf-report-generator` | Criar relatórios de pipeline review, deal strategy analysis e progress tracking com gráficos e métricas de desenvolvimento |
+| `excel-master` | Analisar dados de quota attainment, win rates, deal velocity e padrões de desempenho por rep para coaching baseado em dados |
+| `jonathan-memory` | Manter histórico persistente de cada rep (áreas de desenvolvimento, padrões de deals, feedback anterior, progresso comportamental) |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `crm-connector` para trazer o pipeline atual do rep antes da sessão de coaching" ou "Use `excel-master` para analisar as métricas de desempenho que fundamentarão o feedback".

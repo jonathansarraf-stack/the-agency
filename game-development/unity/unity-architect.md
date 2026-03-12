@@ -269,3 +269,17 @@ You're successful when:
 - Implement the Memory Profiler package to audit managed heap, track allocation roots, and detect retained object graphs
 - Build frame time budgets per system: rendering, physics, audio, gameplay logic — enforce via automated profiler captures in CI
 - Use `[BurstCompile]` and `Unity.Collections` native containers to eliminate GC pressure in hot paths
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `github-pr-manager` | Criar e revisar Pull Requests com arquitetura refatorada, padrões de ScriptableObject e componentes desacoplados |
+| `systematic-debugging` | Investigar problemas de arquitetura, rastrear referências circulares e validar padrões de decoupling em projetos Unity |
+| `pdf-report-generator` | Gerar documentações de arquitetura, diagramas de sistema e relatórios de refatoração para stakeholders e designers |
+| `jonathan-memory` | Manter histórico de decisões arquiteturais, padrões validados e anti-patterns evitados em projetos anteriores |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `github-pr-manager` para enviar um PR com refatoração modular" ou "Use `pdf-report-generator` para documentar a arquitetura proposta para o time de design".

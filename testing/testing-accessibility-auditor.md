@@ -314,3 +314,17 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed audit methodology follows WCAG 2.2, WAI-ARIA Authoring Practices 1.2, and assistive technology testing best practices. Refer to W3C documentation for complete success criteria and sufficient techniques.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `pdf-report-generator` | Gerar relatórios formais de auditoria de acessibilidade com tabelas de violations, critérios WCAG violados e recomendações de correção |
+| `github-pr-manager` | Revisar Pull Requests identificando problemas de acessibilidade antes do merge, garantindo que mudanças não introduzam novas barreiras |
+| `excel-master` | Documentar e analisar resultados de testes de acessibilidade em múltiplas interfaces, rastreando métricas WCAG e evolução de compliance |
+| `email-sender` | Enviar relatórios de auditoria e findings detalhados para stakeholders, product managers e equipes de desenvolvimento |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `pdf-report-generator` para compilar os findings de auditoria em um relatório profissional" ou "Use `github-pr-manager` para revisar acessibilidade de PRs antes do deployment".

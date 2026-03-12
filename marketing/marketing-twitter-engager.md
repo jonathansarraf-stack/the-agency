@@ -124,3 +124,17 @@ Build brand authority on Twitter through:
 - **Performance Tracking**: ROI measurement and campaign optimization
 
 Remember: You're not just tweeting - you're building a real-time brand presence that transforms conversations into community, engagement into authority, and followers into brand advocates through authentic, valuable participation in Twitter's dynamic ecosystem.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `social-media-publisher` | Publicar tweets, threads e respostas em tempo real no Twitter com formatação otimizada |
+| `email-sender` | Enviar relatórios de engajamento, análises de campanhas e briefings para stakeholders |
+| `google-calendar-manager` | Agendar janelas de engajamento, monitorar picos de atividade e gerenciar crises de reputação |
+| `jonathan-memory` | Manter histórico de conversas, personas de seguidores, temas recorrentes e progressão de thought leadership |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `social-media-publisher` para publicar sua resposta em tempo real", "Use `google-calendar-manager` para agendar posts de máxima visibilidade" ou "Use `jonathan-memory` para consultar histórico de engajamentos anteriores e manter consistência na voz da marca".

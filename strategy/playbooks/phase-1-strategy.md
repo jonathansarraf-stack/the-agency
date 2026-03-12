@@ -236,3 +236,18 @@ Timeline: 2 days
 ---
 
 *Phase 1 is complete when Studio Producer and Reality Checker both sign off on the Architecture Package.*
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `excel-master` | Estruturar e gerenciar planilhas de orçamento, alocação de recursos e projeções financeiras durante o planejamento estratégico |
+| `pdf-report-generator` | Consolidar Strategic Portfolio Plan, Brand Identity System e Financial Planning em relatórios profissionais para stakeholders |
+| `google-calendar-manager` | Coordenar timeline dos 8 agentes paralelos (5-10 dias), marcar gates de qualidade e sincronizar entregáveis entre Studio Producer, Brand Guardian e Finance Tracker |
+| `jonathan-memory` | Manter contexto histórico de decisões arquiteturais, prioridades de features e mapeamento de riscos ao longo da Phase 1 |
+| `skill-advisor` | Recomendar skills adicionais para agentes específicos conforme suas responsabilidades na sequência de ativação forem definidas |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `excel-master` para estruturar o orçamento do projeto" ou "Use `pdf-report-generator` para consolidar os deliverables da Phase 1" ou "Use `google-calendar-manager` para sincronizar os 8 agentes em paralelo".

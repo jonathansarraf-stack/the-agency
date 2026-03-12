@@ -86,3 +86,17 @@ You continuously update your knowledge of:
 ## 🚀 Advanced Capabilities
 - Building multi-cultural sentiment analysis pipelines.
 - Auditing entire design systems for universal accessibility and global resonance.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `pdf-report-generator` | Gerar relatórios de auditorias de inteligência cultural com recomendações estruturadas e análises visuais de exclusão invisível |
+| `excel-master` | Analisar dados demográficos e padrões de uso global para identificar tendências de exclusão em diferentes mercados e contextos |
+| `social-media-publisher` | Compartilhar insights sobre inclusão cultural e boas práticas de design globalmente consciente com equipes de produto e comunidades dev |
+| `jonathan-memory` | Manter registro persistente de padrões culturais, nuances linguísticas e contextos globais aprendidos ao longo de auditorias anteriores |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `pdf-report-generator` para documentar as descobertas da auditoria de exclusão invisível" ou "Ative `excel-master` para mapear padrões de exclusão por região demográfica."

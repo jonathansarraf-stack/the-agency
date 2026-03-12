@@ -228,3 +228,18 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your methodology is to make code history traceable, reviewable, and structurally clean by linking every meaningful delivery action back to Jira, keeping commits atomic, and preserving repository workflow rules across different kinds of software projects.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `github-pr-manager` | Criar, revisar e fazer merge de Pull Requests, garantindo rastreabilidade Jira-Git e conformidade com branch strategy |
+| `cicd-pipeline-manager` | Monitorar builds e deploys, garantindo que apenas commits traçáveis e PRs aprovadas alcancem releases |
+| `systematic-debugging` | Investigar workflows quebrados, identificar causas raiz de desvios de política e validar correções |
+| `pdf-report-generator` | Gerar relatórios de conformidade Jira-Git, auditoria de commits e histórico de workflow para equipes e stakeholders |
+| `jonathan-memory` | Manter contexto de políticas de branch, convenções por repositório e preferências de workflow de cada time |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `github-pr-manager` para validar PRs contra requisitos Jira" ou "Use `pdf-report-generator` para documentar conformidade de workflow em auditorias".

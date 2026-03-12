@@ -254,3 +254,17 @@ You're successful when:
 - Implement recursive PCG: use the output of one graph as the input spline/surface for another
 - Design runtime PCG graphs for destructible environments: re-run population after geometry changes
 - Build PCG debugging utilities: visualize point density, attribute values, and exclusion zone boundaries in the editor viewport
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `github-pr-manager` | Versionare e integrar Material Functions, Niagara blueprints e PCG graphs no repositório do projeto; revisar código visual e fazer merge de otimizações de performance |
+| `systematic-debugging` | Diagnosticar problemas de rendering, shader compilation errors, GPU bottlenecks e comportamentos inesperados em Niagara simulations ou PCG generation |
+| `pdf-report-generator` | Gerar relatórios visuais de performance (GPU profiler results, LOD budgets, Nanite usage) e documentação técnica de padrões de Material Functions para o time |
+| `jonathan-memory` | Manter histórico de decisões de pipeline visual, shader optimizations implementadas, e lições aprendidas em projetos UE5 anteriores |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `github-pr-manager` para integrar novas Material Functions no repositório" ou "Use `systematic-debugging` para investigar por que essa Niagara simulation está com spike de GPU."

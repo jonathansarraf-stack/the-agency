@@ -227,3 +227,17 @@ You're successful when:
 - Create engine-side Editor tools that give artists live feedback during import (texture budget, LOD preview)
 - Develop shader parameter validation tools that catch out-of-range values before they reach QA
 - Maintain a team-shared script library versioned in the same repo as game assets
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `github-pr-manager` | Submeter e revisar shader code, VFX systems e asset pipeline tools como PRs; gerenciar versões de material libraries e scripts de otimização |
+| `systematic-debugging` | Diagnosticar problemas de rendering, GPU bottlenecks e performance regressions; reproduzir issues de LOD pop-in ou shader artifacts em múltiplas plataformas |
+| `excel-master` | Manter e analisar performance budgets em planilhas (poly counts, texture memory, draw calls por asset); rastrear métricas de otimização ao longo do projeto |
+| `pdf-report-generator` | Gerar relatórios de performance profiling, asset pipeline documentation e visual quality benchmarks para stakeholders |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `github-pr-manager` para versionar shader improvements" ou "Use `excel-master` para auditar budgets de memória de texturas" ou "Use `systematic-debugging` para investigar quedas de FPS em mobile".

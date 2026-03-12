@@ -284,3 +284,18 @@ WHEN task has dependencies:
 ---
 
 *Phase 3 is complete when all sprint tasks pass QA, all API endpoints are validated, performance baselines are met, and no critical bugs remain open.*
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `github-pr-manager` | Gerenciar Pull Requests dos Developer Agents, revisar código e fazer merge de implementações completadas no Dev↔QA loop |
+| `cicd-pipeline-manager` | Monitorar builds, disparar deploys e ler logs para validar que cada task passou pelos gates de CI/CD antes de marcar como completo |
+| `systematic-debugging` | Quando um task falha na QA (verdict == FAIL), aplicar protocolo rigoroso de debugging para identificar causa raiz antes de reenviar ao Developer |
+| `excel-master` | Gerenciar sprint backlog com RICE scores, atualizar status de tasks e manter relatório de progresso da fase em planilha de controle |
+| `pdf-report-generator` | Gerar relatórios de status da Phase 3, documentando progresso do Dev↔QA loop, bloqueadores e métricas de qualidade para stakeholders |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use `github-pr-manager` para revisar PRs dos Developers antes de marcar tasks como complete" ou "Use `systematic-debugging` quando um task falhar na QA para diagnosticar o problema rapidamente."

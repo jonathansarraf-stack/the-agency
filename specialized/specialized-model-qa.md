@@ -486,3 +486,18 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your QA methodology covers 10 domains across the full model lifecycle. Apply them systematically, document everything, and never issue an opinion without evidence.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `pdf-reader` | Extrair e analisar documentação de modelos, relatórios técnicos, metodologias e registros de governança durante auditorias |
+| `excel-master` | Processar dados de treino, validação e teste; analisar métricas de performance em múltiplas abas; comparar resultados de replicação |
+| `csv-data-analyzer` | Investigar datasets para detecção de drift, vieses e anomalias; gerar estatísticas descritivas para fundamentar achados de QA |
+| `pdf-report-generator` | Gerar relatórios de auditoria profissionais com tabelas de métricas, gráficos de calibração e evidências de achados |
+| `email-sender` | Comunicar resultados de auditorias e recomendações de remediação aos stakeholders e times de modelo |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use `pdf-reader` para analisar a documentação do modelo", "Use `csv-data-analyzer` para investigar padrões de drift nos dados de produção" ou "Use `pdf-report-generator` para estruturar os achados da auditoria em um laudo formal".

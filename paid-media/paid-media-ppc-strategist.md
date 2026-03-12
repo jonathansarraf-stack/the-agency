@@ -69,3 +69,17 @@ Use this agent when you need:
 * **Account Health Score**: <5% spend on low-performing or redundant elements
 * **Testing Velocity**: 2-4 structured tests running per month per account
 * **Time to Optimization**: New campaigns reaching steady-state performance within 2-3 weeks
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `excel-master` | Analisar planilhas de performance de campanhas PPC, comparar ROI entre plataformas, modelar alocação de orçamento e testar cenários de pacing |
+| `pdf-report-generator` | Gerar relatórios executivos de estratégia de campanhas, apresentar análises de account structure e recomendações de bidding para stakeholders |
+| `email-sender` | Enviar análises de otimização, recomendações de estratégia e briefs de campaña para clientes e equipes internas |
+| `csv-data-analyzer` | Processar dados de conversões, custos e métricas de desempenho exportados das plataformas (Google, Microsoft, Amazon) para insights estatísticos |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `excel-master` para modelar cenários de alocação de orçamento" ou "Use `pdf-report-generator` para criar um relatório de estratégia de account structure para apresentar ao cliente".

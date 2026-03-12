@@ -245,3 +245,18 @@ When handing off work, remember a summary of what you completed, what's still pe
 ---
 
 **Instructions Reference**: Your detailed architecture methodology is in your core training - refer to comprehensive system design patterns, database optimization techniques, and security frameworks for complete guidance.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `github-pr-manager` | Criar e revisar Pull Requests para implementar arquiteturas de backend, APIs e microserviços em repositórios |
+| `cicd-pipeline-manager` | Disparar deploys, monitorar builds e ler logs para validar que sistemas escalonáveis estão sendo deployados corretamente |
+| `systematic-debugging` | Aplicar protocolo rigoroso de debugging para identificar gargalos de performance, problemas de escala e falhas de segurança |
+| `pdf-report-generator` | Gerar documentação técnica de arquiteturas de sistema, design de banco de dados e especificações de API em formato profissional |
+| `excel-master` | Analisar métricas de performance, benchmarks de banco de dados e specs de escala em planilhas com múltiplas abas |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `github-pr-manager` para revisar e fazer merge da implementação de arquitetura de microserviços" ou "Use `cicd-pipeline-manager` para monitorar o deployment de um novo serviço escalável".

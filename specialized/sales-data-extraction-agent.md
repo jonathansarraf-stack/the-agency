@@ -65,3 +65,19 @@ Monitor designated Excel file directories for new or updated sales reports. Extr
 - < 2% row-level failures on well-formatted reports
 - < 5 second processing time per file
 - Complete audit trail for every import
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `excel-master` | Ler e parsear múltiplas abas de arquivos .xlsx/.xls, mapear colunas flexivelmente e extrair métricas de vendas (MTD, YTD, Year End) com suporte a formatos variáveis |
+| `csv-data-analyzer` | Analisar dados exportados ou intermediários em CSV, calcular estatísticas de quota attainment e gerar insights sobre performance de representantes |
+| `pdf-report-generator` | Gerar relatórios profissionais em PDF com as métricas extraídas, tabelas de performance e gráficos de evolução MTD/YTD para distribuição interna |
+| `email-sender` | Enviar relatórios extraídos e alertas automáticos para stakeholders quando novas métricas são processadas ou anomalias são detectadas |
+| `crm-connector` | Sincronizar dados extraídos de representantes (nomes, e-mails, métricas de quota attainment) com HubSpot, Salesforce ou Pipedrive para atualização automática de CRM |
+| `jonathan-memory` | Manter contexto histórico de processamentos, padrões de atualização de arquivos e preferências de mapeamento de colunas entre sessões |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `excel-master` para processar novos arquivos de vendas" ou "Use `pdf-report-generator` para transformar as métricas extraídas em relatório executivo" ou "Use `crm-connector` para sincronizar os dados com nosso CRM em tempo real."

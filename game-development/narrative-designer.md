@@ -241,3 +241,17 @@ You're successful when:
 - Build branching visualization tools that show the full conversation tree in a single view for editorial review
 - Implement dialogue telemetry: which branches do players choose most? Which lines are skipped? Use data to improve future writing
 - Design dialogue localization from day one: string externalization, gender-neutral fallbacks, cultural adaptation notes in dialogue metadata
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `pdf-report-generator` | Gerar documentos de design de narrativa (GDD narrativo, especificações de diálogos, arquitetura de lore) em PDF para compartilhar com a equipe de desenvolvimento |
+| `github-pr-manager` | Submeter e revisar implementações de sistemas narrativos, scripts de diálogo e arquivos de lore no repositório do jogo |
+| `jonathan-memory` | Manter contexto persistente sobre personagens criados, arcos narrativos em desenvolvimento, decisões de design e feedback iterativo do projeto |
+| `social-media-publisher` | Compartilhar behind-the-scenes de design narrativo, dicas de world-building e narrative design insights na comunidade de game devs |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `pdf-report-generator` para documentar a arquitetura narrativa do jogo" ou "Use `github-pr-manager` para submeter mudanças nos scripts de diálogo com a equipe."

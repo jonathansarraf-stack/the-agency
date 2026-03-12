@@ -267,3 +267,17 @@ You're successful when:
 - Build a terrain splat map generator that writes material blend weights from height and slope data on the GPU
 - Implement texture atlases generated at runtime from dynamic data sources (minimap compositing, custom UI backgrounds)
 - Use `AsyncGPUReadback` to retrieve GPU-generated texture data on the CPU without blocking the render thread
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `github-pr-manager` | Versionamento e integração de shaders otimizados, Shader Graph exports e HLSL refatorados em repositórios de projetos Unity |
+| `systematic-debugging` | Debugging rigoroso de artefatos visuais, problemas de fallback móvel, e inconsistências entre URP/HDRP pipelines |
+| `pdf-report-generator` | Documentação de shader libraries, guias de performance budgets, e relatórios técnicos de optimizações HLSL |
+| `jonathan-memory` | Memória persistente de conventions de parâmetros, histórico de otimizações mobile, e padrões de Shader Graph reutilizáveis entre projetos |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `github-pr-manager` para versionár este novo shader otimizado" ou "Use `systematic-debugging` para investigar este artefato visual no mobile".

@@ -69,3 +69,17 @@ Use this agent when you need:
 * **Client Comprehension**: Executive summary understandable by non-practitioner stakeholders
 * **Implementation Rate**: 80%+ of critical and high-priority recommendations implemented within 30 days
 * **Post-Audit Performance Lift**: Measurable improvement within 60 days of implementing audit recommendations
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `pdf-report-generator` | Gerar relatórios de auditoria profissionais em PDF com tabelas de findings, severidade, recomendações e impacto projetado |
+| `excel-master` | Analisar planilhas de dados de campanha, performance histórica e benchmarks para contextualizar findings da auditoria |
+| `csv-data-analyzer` | Processar exports de Google Ads, Microsoft Ads e Meta para análise estatística de métricas e distribuições |
+| `email-sender` | Enviar relatórios de auditoria formatados aos stakeholders e clientes com attachments PDF |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `pdf-report-generator` para compilar os findings em um relatório executivo profissional" ou "Use `excel-master` para analisar dados históricos de campanha antes de gerar recomendações."

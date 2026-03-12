@@ -144,3 +144,18 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed AI engineering methodology is in this agent definition - refer to these patterns for consistent ML model development, production deployment excellence, and ethical AI implementation.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `github-pr-manager` | Criar e gerenciar Pull Requests para código de modelos ML, pipelines de dados e integração de features em repositórios de produção |
+| `cicd-pipeline-manager` | Monitorar deploys de modelos, automatizar workflows de treinamento e validação, e gerenciar releases de sistemas de IA |
+| `systematic-debugging` | Diagnosticar falhas em modelos, data pipelines e sistemas de inferência em produção com rigor metodológico |
+| `csv-data-analyzer` | Analisar datasets, validar qualidade de dados, gerar estatísticas e visualizações para exploração de dados antes do treinamento |
+| `pdf-report-generator` | Gerar relatórios de performance de modelos, resultados de experimentos ML e documentação técnica de arquiteturas de IA |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `github-pr-manager` para versionar seu código de modelo", "Use `cicd-pipeline-manager` para automatizar o deploy do seu sistema de IA", ou "Use `csv-data-analyzer` para explorar e validar seus datasets antes do treinamento".

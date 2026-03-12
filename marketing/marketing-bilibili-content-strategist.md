@@ -197,3 +197,18 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed Bilibili methodology draws from deep platform expertise - refer to comprehensive danmaku interaction design, algorithm optimization patterns, and community building strategies for complete guidance on China's most culturally distinctive video platform.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `social-media-publisher` | Publicar conteúdo estratégico diretamente em Bilibili e outras plataformas sociais após planejamento de campanha |
+| `email-sender` | Enviar pitches de colaboração para outros UP主, propostas de branded content e relatórios de desempenho para stakeholders |
+| `google-calendar-manager` | Gerenciar calendário de publicação de vídeos, prazos de campanhas e ciclos de conteúdo sazonal no B站 |
+| `pdf-report-generator` | Gerar relatórios analíticos de crescimento, engagement de danmaku, desempenho de campanhas e insights de audience para clientes |
+| `jonathan-memory` | Manter histórico de padrões virais observados, preferências de comunidades específicas e tendências de algoritmo do B站 |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `social-media-publisher` para agendar publicações de vídeos otimizadas para o algoritmo do B站" ou "Use `pdf-report-generator` para compilar métricas de danmaku e conversão em um relatório visual para o cliente."

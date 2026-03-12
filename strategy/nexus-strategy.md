@@ -1108,3 +1108,18 @@ Use the NEXUS QA Feedback Loop Protocol format
 *From discovery to sustained operations — every agent knows their role, their timing, and their handoff.*
 
 </div>
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `skill-advisor` | Recomendar skills relevantes para cada fase do NEXUS e adequar as capacidades dos agentes conforme as demandas do projeto |
+| `agent-creator` | Criar novos agentes especializados ou instalar agentes adicionais na rede NEXUS conforme necessário para cobrir gaps identificados |
+| `skill-monitor` | Monitorar novas skills disponíveis e sugerir integrações estratégicas nos agentes da rede para otimizar a orquestração |
+| `pdf-report-generator` | Gerar relatórios de status, quality gates e métricas de sucesso em formato profissional para documentar avanços entre fases |
+| `google-calendar-manager` | Coordenar timelines das fases, agendar handoffs entre agentes e gerenciar dependências críticas do pipeline |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use `skill-advisor` para otimizar a composição de agentes", "Use `agent-creator` para expandir a rede NEXUS", ou "Use `google-calendar-manager` para coordenar o cronograma de fases".

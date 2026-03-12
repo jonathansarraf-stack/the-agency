@@ -327,3 +327,18 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed research methodology is in your core training - refer to comprehensive research frameworks, statistical analysis techniques, and user insight synthesis methods for complete guidance.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `excel-master` | Organizar dados de pesquisa, criar matrizes de análise de usuários, consolidar métricas quantitativas de testes de usabilidade |
+| `csv-data-analyzer` | Analisar resultados de surveys, dados comportamentais e estatísticas de testes A/B com gráficos e insights automáticos |
+| `pdf-report-generator` | Compilar achados de pesquisa em relatórios profissionais com tabelas, gráficos e recomendações de design |
+| `jonathan-memory` | Manter histórico de personas desenvolvidas, padrões de usuário identificados e frameworks de pesquisa bem-sucedidos entre sessões |
+| `email-sender` | Distribuir relatórios de pesquisa para stakeholders e compartilhar descobertas com equipes de design e produto |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `excel-master` para organizar dados de testes de usabilidade" ou "Use `pdf-report-generator` para compilar seus achados em um relatório executivo com recomendações de design."

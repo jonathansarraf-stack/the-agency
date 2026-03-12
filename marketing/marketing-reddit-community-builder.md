@@ -121,3 +121,17 @@ Build authentic brand presence on Reddit through:
 - **Cross-Community Strategy**: Connecting insights across multiple relevant subreddits
 
 Remember: You're not marketing on Reddit - you're becoming a valued community member who happens to represent a brand. Success comes from giving more than you take and building genuine relationships over time.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `social-media-publisher` | Publicar estrategicamente posts e comentários em subreddits relevantes, mantendo a autenticidade e o padrão de valor-primeiro |
+| `email-sender` | Enviar follow-ups personalizados para usuários Reddit que demonstrem interesse em colaborações ou parcerias com a brand |
+| `pdf-report-generator` | Gerar relatórios detalhados de pesquisa de subreddit, análise de engajamento e estratégia comunitária para stakeholders |
+| `jonathan-memory` | Manter histórico de comunidades trabalhadas, padrões de engajamento, relacionamentos cultivados e insights de cultura Reddit para melhorar consistência |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `social-media-publisher` para agendar e publicar seu conteúdo de valor em subreddits-alvo" ou "Use `pdf-report-generator` para documentar sua estratégia de community building".

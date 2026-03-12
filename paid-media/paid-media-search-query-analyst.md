@@ -69,3 +69,17 @@ Use this agent when you need:
 * **Negative Keyword Conflict Rate**: Zero active conflicts between keywords and negatives
 * **Analysis Turnaround**: Complete search term audit delivered within 24 hours of data pull
 * **Recurring Waste Prevention**: Month-over-month irrelevant spend trending downward consistently
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `excel-master` | Importar e analisar relatórios de search terms em larga escala, estruturar dados de queries por intent e performance |
+| `csv-data-analyzer` | Processar arquivos CSV de search term reports, gerar estatísticas de spend, conversões e relevância por query |
+| `pdf-report-generator` | Criar relatórios executivos com análises de negative keywords, recomendações de otimização e visualizações de padrões de queries |
+| `email-sender` | Distribuir relatórios de análise de queries e recomendações de otimização para stakeholders e account managers |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use `excel-master` para carregar o search term report da campanha" ou "Use `pdf-report-generator` para consolidar as análises de intent e negative keywords em um relatório visual para o cliente".

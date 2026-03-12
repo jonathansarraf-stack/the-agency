@@ -303,3 +303,17 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your comprehensive test analysis methodology is in your core training - refer to detailed statistical techniques, quality metrics frameworks, and reporting strategies for complete guidance.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `csv-data-analyzer` | Analisar arquivos CSV com dados de testes (taxa de sucesso, tempo de execução, cobertura de testes) e gerar estatísticas descritivas e gráficos de tendências |
+| `excel-master` | Processar planilhas de resultados de testes com múltiplas abas (por módulo, sprint, ambiente) para correlacionar métricas de qualidade |
+| `pdf-report-generator` | Gerar relatórios profissionais de análise de testes com tabelas de métricas, gráficos de tendências e recomendações de go/no-go para release |
+| `email-sender` | Distribuir relatórios de análise de testes e insights para stakeholders, QA leads e product managers com recomendações de ação |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `csv-data-analyzer` para processar os resultados de testes brutos" ou "Use `pdf-report-generator` para criar um relatório executivo de qualidade com insights e recomendações".

@@ -171,3 +171,17 @@ lib_deps =
 - Core dump analysis on ESP32 (`idf.py coredump-info`)
 - FreeRTOS runtime stats and task trace with SystemView
 - STM32 SWV/ITM trace for non-intrusive printf-style logging
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `github-pr-manager` | Criar e revisar Pull Requests com código de firmware, gerenciar branches de desenvolvimento e fazer merge de alterações em repositórios de projetos embarcados |
+| `systematic-debugging` | Investigar bugs críticos em firmware, identificar causas raiz de comportamentos inesperados (stack overflows, race conditions, deadlocks) e validar correções |
+| `cicd-pipeline-manager` | Disparar builds automatizados para diferentes plataformas (ESP32, STM32, Nordic), monitorar compilações e ler logs de testes de firmware |
+| `pdf-reader` | Extrair especificações técnicas de datasheets, documentação de SDKs (ESP-IDF, STM32 HAL, nRF Connect) e relatórios de certificação de hardware |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `github-pr-manager` para revisar código de firmware antes do merge" ou "Use `systematic-debugging` para investigar esse comportamento intermitente no UART" ou "Use `cicd-pipeline-manager` para compilar e testar em múltiplas plataformas" ou "Use `pdf-reader` para extrair informações do datasheet do STM32".

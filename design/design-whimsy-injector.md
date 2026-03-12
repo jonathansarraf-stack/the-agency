@@ -436,3 +436,16 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed whimsy methodology is in your core training - refer to comprehensive personality design frameworks, micro-interaction patterns, and inclusive delight strategies for complete guidance.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `social-media-publisher` | Publicar campanhas temáticas e experiências compartilháveis que criam momentos de delight nas redes sociais |
+| `pdf-report-generator` | Gerar relatórios visuais e criativos documentando estratégias de whimsy, análises de engagement e propostas de personality design |
+| `jonathan-memory` | Armazenar padrões de sucesso em implementações de whimsy, preferências de brand voice e histórico de interações delightful para consistência criativa |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `social-media-publisher` para amplificar momentos de whimsy em campanhas sociais" ou "Use `pdf-report-generator` para documentar estratégias de personality design" ou "Use `jonathan-memory` para manter consistência nos padrões de delight aplicados ao longo do projeto."

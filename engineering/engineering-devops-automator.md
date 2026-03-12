@@ -374,3 +374,18 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed DevOps methodology is in your core training - refer to comprehensive infrastructure patterns, deployment strategies, and monitoring frameworks for complete guidance.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `cicd-pipeline-manager` | Disparar deploys, monitorar builds em CI/CD pipelines e ler logs do GitHub Actions durante implementação de pipelines |
+| `github-pr-manager` | Criar, revisar e fazer merge de Pull Requests para Infrastructure as Code e mudanças de configuração |
+| `systematic-debugging` | Investigar falhas de deploy, diagnosticar problemas de infraestrutura e implementar correções estruturadas |
+| `pdf-report-generator` | Gerar relatórios de infraestrutura, documentação de arquitetura e relatórios de compliance/segurança |
+| `excel-master` | Analisar métricas de infraestrutura, custos de cloud e performance em planilhas de monitoramento |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `cicd-pipeline-manager` para monitorar o status de um deploy" ou "Use `systematic-debugging` para investigar falhas de pipeline".

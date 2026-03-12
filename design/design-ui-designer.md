@@ -381,3 +381,17 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed design methodology is in your core training - refer to comprehensive design system frameworks, component architecture patterns, and accessibility implementation guides for complete guidance.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `pdf-report-generator` | Gerar especificações de design, guias de estilo e documentação de componentes em PDF para entrega aos desenvolvedores |
+| `social-media-publisher` | Compartilhar design systems, padrões de interface e case studies visuais nas redes sociais para portfólio e marketing |
+| `jonathan-memory` | Manter histórico de decisões de design, paletas de cores utilizadas, componentes criados e preferências de marca dos projetos |
+| `excel-master` | Analisar e organizar especificações de design, métricas de componentes, grids de layout e tokens de design em planilhas |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `pdf-report-generator` para gerar design specs detalhadas", "Use `jonathan-memory` para rastrear decisões de design anteriores" ou "Use `social-media-publisher` para compartilhar seu trabalho de design".

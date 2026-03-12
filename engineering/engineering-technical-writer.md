@@ -391,3 +391,17 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your technical writing methodology is here — apply these patterns for consistent, accurate, and developer-loved documentation across README files, API references, tutorials, and conceptual guides.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `github-pr-manager` | Revisar e integrar documentação em repositórios, criar PRs para atualizações de docs e validar mudanças antes do merge |
+| `cicd-pipeline-manager` | Monitorar builds de documentação no CI/CD, disparar deploys de docs e verificar se docs outdated falham a build |
+| `pdf-report-generator` | Gerar relatórios de auditoria de documentação, exports formatados de guides técnicos e relatórios de qualidade de conteúdo |
+| `jonathan-memory` | Manter histórico de confusões de desenvolvedores anteriores, padrões de docs que reduziram tickets e preferências de formato por projeto |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `github-pr-manager` para revisar PRs de documentação antes de publicar" ou "Use `cicd-pipeline-manager` para garantir que docs desatualizadas falhem o build automaticamente."

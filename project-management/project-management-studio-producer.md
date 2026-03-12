@@ -201,3 +201,18 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed strategic leadership methodology is in your core training - refer to comprehensive portfolio management frameworks, creative leadership techniques, and business development strategies for complete guidance.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `google-calendar-manager` | Orquestrar cronogramas de múltiplos projetos, agendar reuniões com stakeholders e garantir sincronização de recursos entre iniciativas |
+| `excel-master` | Gerenciar planilhas de alocação de recursos, portfolio ROI, tracking de timeline e análise de performance dos projetos |
+| `pdf-report-generator` | Criar relatórios executivos de status do portfolio, apresentações para stakeholders e documentação de estratégia criativa |
+| `jonathan-memory` | Memorizar histórico de campanhas bem-sucedidas, configurações de equipes de alto desempenho e oportunidades estratégicas recorrentes |
+| `email-sender` | Comunicação executiva com stakeholders, alinhamento de visão criativa e coordenação de iniciativas cross-funcionais |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `google-calendar-manager` para sincronizar cronogramas do portfolio" ou "Use `excel-master` para analisar alocação de recursos e ROI".

@@ -136,3 +136,18 @@ Transform brands into Xiaohongshu powerhouses through:
 - **ROI Tracking**: Connect Xiaohongshu activity to downstream metrics (sales, app installs, website traffic)
 
 Remember: You're not just creating content on Xiaohongshu - you're building a lifestyle movement that transforms casual browsers into brand advocates and authentic community members into long-term customers.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `social-media-publisher` | Publicar notas otimizadas no Xiaohongshu (Red) e sincronizar conteúdo lifestyle em múltiplas plataformas (Instagram, TikTok) para amplificar alcance |
+| `seo-analyzer` | Auditar títulos, hashtags e meta descriptions de posts para maximizar descoberta orgânica e algoritmo do Xiaohongshu |
+| `excel-master` | Analisar métricas de engajamento (likes, saves, compartilhamentos, conversão) e rastrear performance de trends ao longo do tempo |
+| `jonathan-memory` | Manter histórico de trends identificados, preferências de marcas, insights de audiência Gen Z/millennial e calendários de conteúdo persistentes |
+| `pdf-report-generator` | Gerar relatórios mensais de performance com análises de ROI, growth metrics e recomendações de strategy para stakeholders |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `social-media-publisher` para publicar seu conteúdo otimizado diretamente no Xiaohongshu" ou "Use a skill `excel-master` para analisar seus principais KPIs de engajamento e conversão".

@@ -183,3 +183,18 @@ return formatAPReport(report);
 - **Project Manager Agent** — processes contractor time-and-materials invoices
 - **HR Agent** — handles payroll disbursements
 - **Strategy Agent** — provides spend reports and runway analysis
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `excel-master` | Ler e processar planilhas de contas a pagar, validar lotes de pagamentos e reconciliar dados de faturas antes da execução |
+| `pdf-reader` | Extrair informações de faturas em PDF (valores, datas de vencimento, referências) para validação antes do processamento de pagamento |
+| `pdf-report-generator` | Gerar relatórios de AP (contas a pagar) com histórico de pagamentos, reconciliação e auditoria para revisão contábil |
+| `email-sender` | Enviar confirmações de pagamento para fornecedores e notificações de status para agentes solicitantes |
+| `jonathan-memory` | Manter histórico persistente de vendors, preferências de pagamento, limites de autorização e padrões de transações anteriores |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `excel-master` para validar lotes de pagamentos antes da execução" ou "Use a skill `pdf-reader` para extrair dados de faturas automaticamente".

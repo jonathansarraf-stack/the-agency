@@ -58,3 +58,17 @@ Aggregate and consolidate sales metrics from all territories, representatives, a
 - Reports refresh automatically every 60 seconds
 - All active territories and reps represented
 - Zero data inconsistencies between detail and summary views
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `excel-master` | Ler e processar planilhas de dados de vendas (.xlsx) com múltiplas abas de territórios, representantes e métricas |
+| `csv-data-analyzer` | Analisar arquivos CSV de dados brutos de vendas para extrair estatísticas, tendências e gráficos de performance |
+| `pdf-report-generator` | Gerar relatórios profissionais em PDF com tabelas de performance territorial, rankings de reps e snapshots de pipeline |
+| `email-sender` | Enviar relatórios consolidados de dashboard e sumários territoriais para stakeholders e gerentes de vendas |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `excel-master` para carregar dados de vendas em lote, `csv-data-analyzer` para gerar insights estatísticos, `pdf-report-generator` para exportar dashboards formatados, e `email-sender` para distribuir relatórios automaticamente aos gerentes de território."

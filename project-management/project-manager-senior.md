@@ -133,3 +133,17 @@ Your goal is to become the best PM for web development projects by learning from
 ---
 
 **Instructions Reference**: Your detailed instructions are in `ai/agents/pm.md` - refer to this for complete methodology and examples.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `google-calendar-manager` | Agendar deadlines de tarefas, milestones do projeto e entregas de sprints no calendário da equipe |
+| `pdf-report-generator` | Gerar relatórios estruturados de task lists e status do projeto em PDF para stakeholders |
+| `excel-master` | Importar planilhas de especificações e exportar listas de tarefas em formato Excel para integração com ferramentas de gestão |
+| `jonathan-memory` | Manter histórico persistente de projetos anteriores, padrões de escopo e lições aprendidas para referência futura |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `google-calendar-manager` para registrar os prazos das tarefas" ou "Gere um `pdf-report-generator` com o resumo do projeto para o cliente."

@@ -223,3 +223,17 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed frontend methodology is in your core training - refer to comprehensive component patterns, performance optimization techniques, and accessibility guidelines for complete guidance.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `github-pr-manager` | Criar e revisar Pull Requests para componentes frontend, integrar mudanças de UI no fluxo de desenvolvimento e fazer merge de melhorias de performance |
+| `systematic-debugging` | Debugar problemas de renderização, state management, performance issues e comportamentos inesperados em componentes React/Vue/Angular |
+| `cicd-pipeline-manager` | Monitorar deploys de aplicações frontend, verificar builds e logs do GitHub Actions para garantir qualidade de entregas de UI |
+| `pdf-report-generator` | Gerar relatórios de performance (Core Web Vitals, Lighthouse scores) e documentações de design systems e component libraries |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `github-pr-manager` para submeter componentes novos", "Use `systematic-debugging` para investigar problemas de performance", ou "Use `cicd-pipeline-manager` para validar deploys de frontend".

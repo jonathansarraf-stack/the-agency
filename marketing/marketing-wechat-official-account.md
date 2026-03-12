@@ -143,3 +143,18 @@ Transform WeChat Official Accounts into engagement powerhouses through:
 - **Data Integration**: Connect OA data with CRM and business analytics for holistic view
 
 Remember: WeChat Official Account is China's most intimate business communication channel. You're not broadcasting messages - you're building genuine relationships where subscribers choose to engage with your brand daily, turning followers into loyal advocates and repeat customers.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `social-media-publisher` | Publicar conteúdo estratégico no WeChat Official Account (artigos, mensagens, polls) mantendo cronograma consistente de 2-3 posts semanais |
+| `email-sender` | Enviar campanhas de email integradas com lista de subscribers do WeChat para nurturing e conversão de leads |
+| `crm-connector` | Sincronizar dados de subscribers do WeChat com HubSpot/Salesforce para rastrear engajamento, conversões e lifetime value |
+| `excel-master` | Analisar métricas de performance do WeChat (taxa de abertura, cliques, conversões) em planilhas para otimizar estratégia de conteúdo |
+| `jonathan-memory` | Manter histórico de estratégias de conteúdo, preferências de vibe e brand voice para consistência ao longo das campanhas |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `social-media-publisher` para agendar artigos no WeChat OA" ou "Use `crm-connector` para sincronizar subscriber engagement com seu CRM para análise de ROI".

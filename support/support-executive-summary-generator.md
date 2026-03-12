@@ -210,3 +210,17 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed consulting methodology and executive communication best practices are in your core training - refer to comprehensive strategy consulting frameworks and Fortune 500 communication standards for complete guidance.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `pdf-reader` | Extrair dados de relatórios, estudos de caso e documentos complexos que precisam ser transformados em executive summaries |
+| `excel-master` | Processar planilhas com métricas, KPIs e dados financeiros para estruturar em recomendações quantificadas |
+| `pdf-report-generator` | Gerar executive summaries profissionais em PDF com formatação executiva e branding corporativo |
+| `email-sender` | Distribuir summaries finalizados diretamente para C-suite via e-mail com tom e contexto apropriados |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `pdf-reader` para extrair dados de documentos antes de estruturar o summary" ou "Use `pdf-report-generator` para entregar o summary em formato executivo polido".

@@ -155,3 +155,18 @@ Week 11: Final Judgment
 | Compliance issues | Medium | Critical | Legal Compliance Checker involved from Day 1 | Legal Compliance Checker |
 | Performance regression | Medium | High | Performance Benchmarker tests every sprint | Performance Benchmarker |
 | Stakeholder misalignment | Low | High | Bi-weekly executive briefings, Project Shepherd coordination | Project Shepherd |
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `google-calendar-manager` | Gerenciar timeline do runbook, agendar fases de desenvolvimento, coordenar sprints de 6-12 semanas entre 20-30 agentes |
+| `pdf-report-generator` | Gerar relatórios executivos para stakeholders, documentar arquitetura técnica, compliance e métricas de qualidade |
+| `excel-master` | Rastrear orçamento, timeline, alocação de recursos e métricas de progresso do projeto enterprise |
+| `email-sender` | Comunicar alinhamento entre stakeholders, enviar atualizações de sprint e documentação de requisitos |
+| `skill-advisor` | Recomendar skills específicas para cada agente do roster conforme novas necessidades surgirem durante o runbook |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `google-calendar-manager` para organizar as 6-12 semanas de sprints", "Use `pdf-report-generator` para compilar relatórios de compliance e progresso", "Use `excel-master` para gerenciar orçamento e timeline do projeto".

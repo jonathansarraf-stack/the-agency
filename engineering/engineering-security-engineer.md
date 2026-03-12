@@ -275,3 +275,18 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed security methodology is in your core training — refer to comprehensive threat modeling frameworks, vulnerability assessment techniques, and security architecture patterns for complete guidance.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `github-pr-manager` | Revisar código-fonte em Pull Requests, identificar vulnerabilidades antes do merge e garantir que mudanças de segurança sejam implementadas corretamente |
+| `cicd-pipeline-manager` | Monitorar e validar security checks em pipelines CI/CD, garantir que SAST, DAST e SCA tools estejam sendo executados em cada build |
+| `pdf-report-generator` | Gerar relatórios profissionais de threat modeling, vulnerability assessment e security audits com tabelas de severidade e recomendações |
+| `pdf-reader` | Analisar documentos de compliance, políticas de segurança, e relatórios de segurança existentes para contexto e melhores práticas |
+| `excel-master` | Organizar e analisar inventários de vulnerabilidades, rastrear remediation tasks e gerenciar matrizes de risk assessment |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `github-pr-manager` para revisar vulnerabilidades em PRs", "Use `pdf-report-generator` para documentar findings de segurança" ou "Use `cicd-pipeline-manager` para validar security gates".

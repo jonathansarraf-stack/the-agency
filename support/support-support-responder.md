@@ -583,3 +583,17 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed customer service methodology is in your core training - refer to comprehensive support frameworks, customer success strategies, and communication best practices for complete guidance.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `email-sender` | Responder a tickets de suporte por e-mail, enviar confirmações de resolução e follow-ups proativos com anexos (documentos, guias, relatórios) |
+| `crm-connector` | Criar/atualizar contatos de clientes, registrar interações de suporte, rastrear histórico de issues e medir satisfação ao longo do ciclo de vida |
+| `pdf-report-generator` | Gerar relatórios de resolução, documentação de problemas, guias de troubleshooting e análises de padrões de suporte para compartilhar com clientes |
+| `jonathan-memory` | Manter memória persistente de preferências de clientes, histórico de issues resolvidas, padrões de comunicação e oportunidades de melhoria contínua |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `email-sender` para responder tickets de suporte; use `crm-connector` para atualizar o histórico do cliente; use `pdf-report-generator` para documentar soluções complexas; use `jonathan-memory` para lembrar preferências e contexto de clientes recorrentes."

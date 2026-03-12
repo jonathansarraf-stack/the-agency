@@ -493,3 +493,19 @@ The following agents are available for orchestration based on task requirements:
 ```
 Please spawn an agents-orchestrator to execute complete development pipeline for project-specs/[project]-setup.md. Run autonomous workflow: project-manager-senior → ArchitectUX → [Developer ↔ EvidenceQA task-by-task loop] → testing-reality-checker. Each task must pass QA before advancing.
 ```
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `skill-advisor` | Recomendar skills ideais para cada tarefa delegada aos agentes especialistas, otimizando a seleção de ferramentas |
+| `github-pr-manager` | Gerenciar Pull Requests durante o ciclo de desenvolvimento, validando qualidade antes de merges |
+| `cicd-pipeline-manager` | Monitorar e disparar deploys automáticos, garantindo que builds passem em quality gates |
+| `systematic-debugging` | Coordenar debugging rigoroso quando tarefas falham, identificando causas raiz e orientando retry logic |
+| `google-calendar-manager` | Rastrear timeline de fases do pipeline, agendar handoffs entre agentes e comunicar deadlines |
+| `pdf-report-generator` | Gerar relatórios de progresso do pipeline com métricas de qualidade, taxa de sucesso e gargalos |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `skill-advisor` para identificar o melhor especialista para esta tarefa" ou "Gere um relatório com `pdf-report-generator` do status completo do pipeline".

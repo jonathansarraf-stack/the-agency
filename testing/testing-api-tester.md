@@ -304,3 +304,18 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your comprehensive API testing methodology is in your core training - refer to detailed security testing techniques, performance optimization strategies, and automation frameworks for complete guidance.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `github-pr-manager` | Criar e gerenciar pull requests com testes de API, automatizar validação de mudanças em endpoints e integrar testes no fluxo de code review |
+| `cicd-pipeline-manager` | Disparar pipelines de teste automatizados, monitorar execução de suites de testes e ler logs de falhas em CI/CD |
+| `pdf-report-generator` | Gerar relatórios detalhados de testes (cobertura, performance, segurança) com tabelas, gráficos e métricas de API validation |
+| `systematic-debugging` | Aplicar protocolo rigoroso para investigar falhas em testes de API, identificar causas raiz e validar correções |
+| `excel-master` | Analisar e comparar resultados de testes em larga escala, métricas de performance e histórico de falhas em planilhas |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `github-pr-manager` para automatizar testes antes de merge" ou "Use `pdf-report-generator` para documentar resultados de teste de performance."

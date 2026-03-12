@@ -196,3 +196,18 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed experimentation methodology is in your core training - refer to comprehensive statistical frameworks, experiment design patterns, and data analysis techniques for complete guidance.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `excel-master` | Importar dados de experimentos, analisar resultados em planilhas com múltiplas abas (controle, variante, métricas) e calcular significância estatística |
+| `csv-data-analyzer` | Processar dados brutos de A/B tests, gerar estatísticas descritivas, criar visualizações de resultados e validar qualidade da coleta de dados |
+| `pdf-report-generator` | Gerar relatórios executivos de experimentos com tabelas de resultados, gráficos de performance e recomendações baseadas em dados |
+| `google-calendar-manager` | Agendar marcos do ciclo experimental (início, pausas, análise intermediária), configurar lembretes para revisões de dados e coordenar testes concorrentes |
+| `jonathan-memory` | Armazenar padrões de experimentos bem-sucedidos, limiares de significância estatística por tipo de teste e histórico de aprendizados anteriores |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use `excel-master` para carregar os dados do seu A/B test" ou "Use `pdf-report-generator` para criar um relatório executivo com os resultados finais do experimento".

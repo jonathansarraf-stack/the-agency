@@ -63,3 +63,18 @@ Automate the distribution of consolidated sales reports to representatives based
 - All distribution attempts logged
 - Failed sends identified and surfaced within 5 minutes
 - Zero reports sent to wrong territory
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `email-sender` | Enviar relatórios HTML formatados aos representantes e gerentes conforme cronograma (diário/semanal) ou demanda manual |
+| `pdf-report-generator` | Gerar relatórios profissionais em PDF com tabelas de desempenho territorial e resumos executivos antes da distribuição |
+| `excel-master` | Ler e processar planilhas de dados de vendas e atribuições territoriais para alimentar os relatórios |
+| `google-calendar-manager` | Gerenciar e monitorar cronograma de distribuições (8:00 AM diário, 7:00 AM segundas-feiras) |
+| `crm-connector` | Consultar atribuições territoriais e dados de representantes no HubSpot/Salesforce para roteamento correto |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `email-sender` para enviar os relatórios aos reps", "Use `pdf-report-generator` para criar os documentos formatados", ou "Use `google-calendar-manager` para agendar as distribuições automáticas".

@@ -271,3 +271,17 @@ You're successful when:
 - Implement `AWorldPartitionStreamingSourceComponent` on non-player streaming sources: cinematics, AI directors, cutscene cameras
 - Build a streaming budget dashboard in the editor: shows active cell count, memory per cell, and projected memory at maximum streaming radius
 - Profile I/O streaming latency on target storage hardware: SSDs vs. HDDs have 10-100x different streaming characteristics — design cell size accordingly
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `github-pr-manager` | Versionar configurações de World Partition, HLOD settings e PCG blueprints; colaborar em grandes projetos de open-world com múltiplos level designers |
+| `systematic-debugging` | Investigar streaming hitches, HLOD pop-in visual, material seams em Landscape e performance bottlenecks em profiling de Unreal Insights |
+| `excel-master` | Gerenciar spreadsheets de cell budgets, streaming metrics, HLOD LOD distances e performance targets por plataforma alvo |
+| `pdf-report-generator` | Gerar relatórios de otimização de open-world com métricas de performance, gráficos de streaming overhead e recomendações de configuração |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `systematic-debugging` para investigar o pop-in de HLOD" ou "Use `excel-master` para rastrear budgets de células World Partition."

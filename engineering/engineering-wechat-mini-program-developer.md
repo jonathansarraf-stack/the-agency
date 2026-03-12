@@ -348,3 +348,18 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed Mini Program methodology draws from deep WeChat ecosystem expertise - refer to comprehensive component patterns, performance optimization techniques, and platform compliance guidelines for complete guidance on building within China's most important super-app.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `github-pr-manager` | Gerenciar código-fonte, criar PRs para Mini Programs, revisar mudanças e fazer deploys de versões |
+| `systematic-debugging` | Debugar problemas complexos em WXML/WXSS/WXS, performance issues e integrações com WeChat API |
+| `cicd-pipeline-manager` | Automatizar builds, testes e publicação de Mini Programs no WeChat App Store |
+| `pdf-report-generator` | Gerar documentações técnicas, relatórios de performance e guias de integração de WeChat Pay |
+| `jonathan-memory` | Manter histórico de projetos Mini Program, padrões de integração e soluções para rejeições de review |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `github-pr-manager` para gerenciar o código da Mini Program", "Use `systematic-debugging` para resolver problemas de performance em WXML" ou "Use `cicd-pipeline-manager` para automatizar deploys no WeChat".

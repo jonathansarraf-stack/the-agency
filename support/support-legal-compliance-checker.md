@@ -586,3 +586,17 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed legal methodology is in your core training - refer to comprehensive regulatory compliance frameworks, privacy law requirements, and contract analysis guidelines for complete guidance.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `pdf-reader` | Extrair e analisar cláusulas de contratos, políticas de privacidade, termos de serviço e documentos regulatórios para validação de conformidade |
+| `pdf-report-generator` | Gerar relatórios de conformidade detalhados, audit trails e documentação de avaliações de risco em formato profissional |
+| `email-sender` | Notificar stakeholders sobre achados de compliance, recomendações de políticas e requisitos regulatórios identificados |
+| `excel-master` | Gerenciar planilhas de rastreamento de conformidade, matrizes de risco, cronogramas de auditoria e registros de regulamentações por jurisdição |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `pdf-reader` para analisar um contrato de fornecedor" ou "Use a skill `pdf-report-generator` para documentar os resultados da auditoria de conformidade."

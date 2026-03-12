@@ -221,3 +221,18 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed Kuaishou methodology draws from deep understanding of China's grassroots digital economy - refer to comprehensive live commerce playbooks, 下沉市场 audience insights, and community trust-building frameworks for complete guidance on succeeding where authenticity matters most.
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `social-media-publisher` | Publicar conteúdo de vídeo curto, teasers de live commerce e posts de engajamento comunitário nativamente na plataforma Kuaishou |
+| `excel-master` | Analisar dados de performance de lives, GMV, taxa de conversão, engagement metrics e sazonalidade de campanhas em planilhas |
+| `google-calendar-manager` | Agendar e gerenciar cronogramas de lives, campanhas sazonais e eventos de engajamento comunitário com antecedência |
+| `jonathan-memory` | Manter histórico de padrões de sucesso em live commerce, comportamentos de público de cidades tier 2+, e estratégias de construção de relacionamento 老铁 |
+| `pdf-report-generator` | Criar relatórios profissionais de performance de campanha, análise de GMV e case studies de crescimento para stakeholders |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `social-media-publisher` para publicar conteúdo autêntico no Kuaishou", "Use `excel-master` para analisar dados de live commerce" ou "Use `jonathan-memory` para revisar estratégias anteriores bem-sucedidas".

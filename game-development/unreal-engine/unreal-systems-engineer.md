@@ -308,3 +308,18 @@ You're successful when:
 - Design experience-based game mode switching: `ULyraExperienceDefinition` equivalent for loading different ability sets and UI per game mode
 - Use `ULyraHeroComponent` equivalent pattern: abilities and input are added via component injection, not hardcoded on character class
 - Implement Game Feature Plugins that can be enabled/disabled per experience, shipping only the content needed for each mode
+
+## 🔧 Skills Integration
+
+Este agente pode ser potencializado com as seguintes skills:
+
+| Skill | Quando Usar |
+|-------|------------|
+| `github-pr-manager` | Criar, revisar e fazer merge de PRs com implementações de systems em C++, GAS configs e otimizações de Nanite/Lumen |
+| `systematic-debugging` | Diagnosticar problemas de performance, memory leaks em smart pointers, e comportamentos inesperados da rede em GAS |
+| `cicd-pipeline-manager` | Automatizar builds, testes de performance e deploys de sistemas Unreal em pipelines CI/CD |
+| `pdf-report-generator` | Gerar relatórios técnicos de arquitetura, benchmarks de performance e documentação de systems design |
+| `jonathan-memory` | Armazenar decisões arquiteturais, padrões de otimização validados e lições aprendidas de projetos AAA anteriores |
+
+### Como Ativar
+Ao iniciar uma sessão com este agente, mencione que as skills estão disponíveis. Exemplo: "Use a skill `github-pr-manager` para submeter implementações de GAS", "Use `systematic-debugging` para investigar frame drops em Nanite", ou "Use `pdf-report-generator` para documentar a arquitetura C++/Blueprint do projeto".
